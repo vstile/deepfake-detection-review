@@ -120,7 +120,7 @@ A small number of items reached the author through professional activities and a
 
 ## 7) Repository layout
 
-Suggested structure for this repo:
+Structure of this repo:
 
 ```
 /raw/
