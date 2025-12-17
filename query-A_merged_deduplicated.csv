@@ -1,0 +1,85 @@
+Title,Sources,From_Scopus,From_IEEE_Xplore,From_ScienceDirect
+A Contemporary and Comprehensive Bibliometric Exposition on Deepfake Research and Trends,ScienceDirect,0,0,1
+A Framework for Deepfake Detection using Convolutional Neural Network and Deep Features,ScienceDirect,0,0,1
+A GAN-Based Model of Deepfake Detection in Social Media,ScienceDirect,0,0,1
+A Hybrid Approach for Deepfake Image Detection with Frequency Analysis and Biological Analysis,IEEE Xplore,0,1,0
+A Hybrid Xception-LSTM Model with Channel and Spatial Attention Mechanism for Deepfake Video Detection,IEEE Xplore,0,1,0
+A Multi-Layer Capsule-based Forensics Model for Fake Detection of Digital Visual Media,IEEE Xplore,0,1,0
+A Residual Fingerprint-Based Defense Against Adversarial Deepfakes,IEEE Xplore,0,1,0
+A Study on Combating Emerging Threat of Deepfake Weaponization,IEEE Xplore,0,1,0
+"A comprehensive survey on digital video forensics: Taxonomy, challenges, and future directions",ScienceDirect,0,0,1
+A systematic literature review of deepfakes in forensic science,ScienceDirect,0,0,1
+AI/ML-Based Solution for Detecting Face-Swap Deepfakes,IEEE Xplore,0,1,0
+AV-Lip-Sync+: Leveraging AV-HuBERT to Exploit Multimodal Inconsistency for Deepfake Detection of Frontal Face Videos,IEEE Xplore,0,1,0
+AVSecure: An Audio-Visual Watermarking Framework for Proactive Deepfake Detection,IEEE Xplore,0,1,0
+AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake,IEEE Xplore,0,1,0
+Abbreviated View of Deepfake Videos Detection Techniques,"IEEE Xplore, Scopus",1,1,0
+Advances in DeepFake detection algorithms: Exploring fusion techniques in single and multi-modal approach,ScienceDirect,0,0,1
+Audio-Visual Temporal Forgery Detection Using Embedding-Level Fusion and Multi-Dimensional Contrastive Loss,IEEE Xplore,0,1,0
+Autonomous Detection and Evaluation of Deepfakes: A Comprehensive Study,IEEE Xplore,0,1,0
+Beyond Accuracy: Explainable Multimodal Deepfake Detection Through Cross-Modal Feature Analysis and Dynamic Attention Weighting,IEEE Xplore,0,1,0
+Chapter 8 - Manipulating faces for identity theft via morphing and deepfake: Digital privacy,ScienceDirect,0,0,1
+Circumventing shortcuts in audio-visual deepfake detection datasets with unsupervised learning,IEEE Xplore,0,1,0
+Comparative Analysis of DeepFake Detection Methods,IEEE Xplore,0,1,0
+Context-Preserving and Sparsity-Aware Temporal Graph Network for Unified Face Forgery Detection,IEEE Xplore,0,1,0
+Critical Contour Prior-Guided Graph Learning With Pose Calibration for Identity-Aware Deepfake Detection,"IEEE Xplore, Scopus",1,1,0
+Customized Convolutional Neural Network for Accurate Detection of Deep Fake Images in Video Collections,ScienceDirect,0,0,1
+"Datasets, clues and state-of-the-arts for multimedia forensics: An extensive review",ScienceDirect,0,0,1
+Decoding fake news fabrications and trends: A comprehensive survey,ScienceDirect,0,0,1
+Deep learning for deepfakes creation and detection: A survey,ScienceDirect,0,0,1
+DeepFake video detection: Insights into model generalisation — A Systematic review,ScienceDirect,0,0,1
+DeepFakeGuard: Real-Time Deepfake Video Detection Leveraging Celeb-DF Dataset and CNN-LSTM Framework,IEEE Xplore,0,1,0
+DeepGuardNet: A Novel CNN Architecture for DeepFake Image Detection,ScienceDirect,0,0,1
+DeepMark: A Platform Ensuring Content Integrity,IEEE Xplore,0,1,0
+Deepfake Detection Based on Visual Lip-sync Match and Blink Rate,Scopus,1,0,0
+Deepfake Detection Model Based on VGGFace with Head Pose Estimation Technique,Scopus,1,0,0
+Deepfake Detection Using Deep Learning,IEEE Xplore,0,1,0
+Deepfake Detection Using Robust Spatial and Temporal Features from Facial Landmarks,"IEEE Xplore, Scopus",1,1,0
+Deepfake Detection using a Two-Stream Capsule Network,IEEE Xplore,0,1,0
+Deepfake Detection: A Systematic Literature Review,IEEE Xplore,0,1,0
+Deepfake Detection: Demodulate Synthetic Videos Using Deep Learning Models,IEEE Xplore,0,1,0
+Deepfake Image Forensics for Privacy Protection and Authenticity Using Deep Learning,Scopus,1,0,0
+Deepfake Video Detection Using Ada-Boosting on the DFDC Dataset,ScienceDirect,0,0,1
+Deepfake Video Detection by Combining Convolutional Neural Network (CNN) and Recurrent Neural Network (RNN),IEEE Xplore,0,1,0
+"Deepfake video detection methods, approaches, and challenges",ScienceDirect,0,0,1
+Deepfakes as a threat to a speaker and facial recognition: An overview of tools and attack vectors,ScienceDirect,0,0,1
+"Deepfakes in digital media forensics: Generation, AI-based detection and challenges",ScienceDirect,0,0,1
+"Deepfakes: Deceptions, mitigations, and opportunities",ScienceDirect,0,0,1
+Detecting Deepfakes Through the Classification of Facial Active and Passive Features Using Machine Learning,Scopus,1,0,0
+Detecting Deepfakes and Artificial Intelligence-Generated Art,IEEE Xplore,0,1,0
+Dynamic Lip Motion Analysis for Deepfake Detection,IEEE Xplore,0,1,0
+Engaging with deepfakes: a meta-synthesis from the perspective of social shaping of technology theory,ScienceDirect,0,0,1
+Enhancing Authenticity Verification with Transfer Learning and Ensemble Techniques in Facial Feature-Based Deepfake Detection,IEEE Xplore,0,1,0
+Exploiting spatiotemporal inconsistencies to detect deepfake videos in the wild,IEEE Xplore,0,1,0
+Exploring coordinated motion patterns of facial landmarks for deepfake video detection,Scopus,1,0,0
+"Exploring the Landscape of Compressed DeepFakes: Generation, Dataset and Detection",ScienceDirect,0,0,1
+Exposing Deep Fakes Using Inconsistent Head Poses,"IEEE Xplore, Scopus",1,1,0
+Exposing Deepfake Face Forgeries With Guided Residuals,IEEE Xplore,0,1,0
+Facial Segmentation in Deepfake Classification: a Transfer Learning Approach,ScienceDirect,0,0,1
+Fake news or real? Detecting deepfake videos using geometric facial structure and graph neural network,Scopus,1,0,0
+Fighting Malicious Media Data: A Survey on Tampering Detection and Deepfake Detection,IEEE Xplore,0,1,0
+GANK: Dynamic Geometric and Appearance Features for Efficient and Robust Detection of Face Forgery,Scopus,1,0,0
+Generalizable deepfake detection framework using hybrid convolution-based EfficientNetB7 with attention mechanism,Scopus,1,0,0
+"Generation and detection of manipulated multimodal audiovisual content: Advances, trends and open challenges",ScienceDirect,0,0,1
+Identification of Deepfakes using Strategic Models and Architectures,IEEE Xplore,0,1,0
+Impact of AI on the Cyber Kill Chain: A Systematic Review,ScienceDirect,0,0,1
+"Improving Video Vision Transformer for Deepfake Video Detection Using Facial Landmark, Depthwise Separable Convolution and Self Attention","IEEE Xplore, Scopus",1,1,0
+LampMark: Proactive Deepfake Detection via Training-Free Landmark Perceptual Watermarks,Scopus,1,0,0
+Leveraging facial landmarks improves generalization ability for deepfake detection,Scopus,1,0,0
+Localization of Deepfake Facial Images Through U-NET Architecture,"IEEE Xplore, Scopus",1,1,0
+On Using rPPG Signals for DeepFake Detection: A Cautionary Note,Scopus,1,0,0
+"Potential of artificial intelligence in deepfake media: From generation to detection mechanisms, state-of-the-art, and challenges",ScienceDirect,0,0,1
+Revealing and Classification of Deepfakes Video's Images using a Customize Convolution Neural Network Model,ScienceDirect,0,0,1
+SDHF: Spotting DeepFakes with Hierarchical Features,IEEE Xplore,0,1,0
+"Social, legal, and ethical implications of AI-Generated deepfake pornography on digital platforms: A systematic literature review",ScienceDirect,0,0,1
+Spatio-Temporal Convolutional Neural Networks for Deepfake Detection: An Empirical Study,IEEE Xplore,0,1,0
+The Growing Need for Deepfakes Detection in the Age of AI-Generated Media,Scopus,1,0,0
+The applications of machine learning techniques in medical data processing based on distributed computing and the Internet of Things,ScienceDirect,0,0,1
+"Unmasking Deepfakes: A Review of Current Datasets, Tools, and Detection Features",ScienceDirect,0,0,1
+Unmasking deepfakes: A systematic review of deepfake detection and generation techniques using artificial intelligence,ScienceDirect,0,0,1
+"Unmasking digital deceptions: An integrative review of deepfake detection, multimedia forensics, and cybersecurity challenges",ScienceDirect,0,0,1
+Unmasking the Reality: A Comprehensive Study of Deepfake Identification Techniques and Their Expanding Terrain,IEEE Xplore,0,1,0
+VAD-Lip: Visual and Audio Deepfake Detection via Lip Features,Scopus,1,0,0
+Vision-based Multimodal Deepfake Detection using Explainable AI,IEEE Xplore,0,1,0
+You’re not acting like yourself: Deepfake Detection Based on Facial Behavior,IEEE Xplore,0,1,0
+eKYC-DF: A Large-Scale Deepfake Dataset for Developing and Evaluating eKYC Systems,IEEE Xplore,0,1,0

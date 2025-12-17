@@ -1,0 +1,238 @@
+Title,Sources,From_Scopus,From_IEEE_Xplore,From_ScienceDirect
+"A Comprehensive Comparative Analysis of Deepfake Detection Techniques in Visual, Audio, and Audio-Visual Domains",IEEE Xplore,0,1,0
+A Comprehensive Review on File Containers-Based Image and Video Forensics,ScienceDirect,0,0,1
+A Computer Vision Model to Identify Deepfakes to Combat Misinformation During Political Events,IEEE Xplore,0,1,0
+A Contemporary and Comprehensive Bibliometric Exposition on Deepfake Research and Trends,ScienceDirect,0,0,1
+A Dual-Branch CNN for Robust Detection of AI-Generated Facial Forgeries,IEEE Xplore,0,1,0
+A Dual-Stream CNN-LSTM Framework with ELA Preprocessing for Deepfake Detection,IEEE Xplore,0,1,0
+A GAN-Based Model of Deepfake Detection in Social Media,ScienceDirect,0,0,1
+A Lightweight CNN for Efficient Deepfake Detection of Low-resolution Images in Frequency Domain,"IEEE Xplore, Scopus",1,1,0
+A Novel Multi-Scale Spectral-Guided Graph Attention Network for DeepFake Video Detection,IEEE Xplore,0,1,0
+A Novel Unified Approach to Deepfake Detection of Images,"IEEE Xplore, Scopus",1,1,0
+A Preliminary Case Study on Long-Form In-the-Wild Audio Spoofing Detection,IEEE Xplore,0,1,0
+"A Review on Deepfake Image Detection Approaches, Techniques and Methods",IEEE Xplore,0,1,0
+A Robust Audio Deepfake Detection System via Multi-View Feature,IEEE Xplore,0,1,0
+A Robust and Lightweight CNN-Transformer Model for Audio Deepfake Detection in Indian Languages,IEEE Xplore,0,1,0
+A dual descriptor combined with frequency domain reconstruction learning for face forgery detection in deepfake videos,Scopus,1,0,0
+A facial geometry based detection model for face manipulation using CNN-LSTM architecture,Scopus,1,0,0
+A method for detecting deepfake faces by integrating multi-scale deep-shallow spatial and frequency features,Scopus,1,0,0
+A survey of machine learning techniques in adversarial image forensics,ScienceDirect,0,0,1
+ADD 2022: the first Audio Deep Synthesis Detection Challenge,IEEE Xplore,0,1,0
+AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error,IEEE Xplore,0,1,0
+AI Model for Deepfake Detection – A Hybrid Deep Learning and Statistical Approach for GANGenerated Visuals,IEEE Xplore,0,1,0
+AI-Based Image Forgery Detection (AI-IFD),IEEE Xplore,0,1,0
+AI-Powered Deepfake Detection in Biometric Systems,IEEE Xplore,0,1,0
+AIM-Bone: Texture Discrepancy Generation and Localization for Generalized Deepfake Detection,IEEE Xplore,0,1,0
+AVSecure: An Audio-Visual Watermarking Framework for Proactive Deepfake Detection,IEEE Xplore,0,1,0
+AdvShadow: Evading DeepFake Detection via Adversarial Shadow Attack,IEEE Xplore,0,1,0
+Advanced Machine Learning techniques for fake news (online disinformation) detection: A systematic mapping study,ScienceDirect,0,0,1
+Advances in DeepFake detection algorithms: Exploring fusion techniques in single and multi-modal approach,ScienceDirect,0,0,1
+Adversarial Attacks on Deepfake Detectors: A Challenge in the Era of AI-Generated Media (AADD-2025),Scopus,1,0,0
+Anomaly Detection and Localization for Speech Deepfakes via Feature Pyramid Matching,IEEE Xplore,0,1,0
+Any-Resolution AI-Generated Image Detection by Spectral Learning,IEEE Xplore,0,1,0
+Attention Guided Multi-attribute Architecture For Deepfake Detection,IEEE Xplore,0,1,0
+Audio Deepfake Detection: End-to-End training with powerful pretrained ASR,IEEE Xplore,0,1,0
+Benchmarking Audio Deepfake Detection Robustness in Real-World Communication Scenarios,IEEE Xplore,0,1,0
+Beyond Accuracy: Explainable Multimodal Deepfake Detection Through Cross-Modal Feature Analysis and Dynamic Attention Weighting,IEEE Xplore,0,1,0
+Beyond Deepfake Images: Detecting AI-Generated Videos,IEEE Xplore,0,1,0
+BiFAT: Bilateral Filtering and Attention Mechanisms in a Two-Stream Model for Deepfake Detection,Scopus,1,0,0
+Blockwise Spectral Analysis for Deepfake Detection in High-fidelity Videos,IEEE Xplore,0,1,0
+Boosting Deepfake Detection Generalizability via Expansive Learning and Confidence Judgement,IEEE Xplore,0,1,0
+CAL-Net: a continual adaptive learning network for deepfake detection using multi-track fusion and domain adaptation,Scopus,1,0,0
+CIPHER: Counterfeit Image Pattern High-level Examination via Representation for GAN and Diffusion Discriminator Learning,IEEE Xplore,0,1,0
+CNN and Transformer-coordinated deepfake detection; CNN 结合 Transformer 的深度伪造高效检测,Scopus,1,0,0
+Chapter 5 - Low-level feature extraction (including edge detection)∗,ScienceDirect,0,0,1
+Chapter 8 - Manipulating faces for identity theft via morphing and deepfake: Digital privacy,ScienceDirect,0,0,1
+Cognitive Inspired Generalization Boosting for Face Forgery Detection,IEEE Xplore,0,1,0
+Complex-valued neural networks for voice anti-spoofing,Scopus,1,0,0
+Compressed Deepfake Detection using Spatio-Temporal Approach with Model Pruning,ScienceDirect,0,0,1
+Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection,IEEE Xplore,0,1,0
+Context-Aware Deepfake Detection for Securing AI-Driven Financial Transactions,"IEEE Xplore, Scopus",1,1,0
+Cross-Domain Deepfake Detection Based on Latent Domain Knowledge Distillation,IEEE Xplore,0,1,0
+Customized Transformer Adapter With Frequency Masking for Deepfake Detection,"IEEE Xplore, Scopus",1,1,0
+D3: Scaling Up Deepfake Detection by Learning from Discrepancy,IEEE Xplore,0,1,0
+DDEM: Deepfake Detection Enhanced Model for Image Forgery Detection Combat Academic Misconduct,IEEE Xplore,0,1,0
+DDL: Effective and Comprehensible Interpretation Framework for Diverse Deepfake Detectors,IEEE Xplore,0,1,0
+DIP: Diffusion Learning of Inconsistency Pattern for General DeepFake Detection,IEEE Xplore,0,1,0
+"Datasets, clues and state-of-the-arts for multimedia forensics: An extensive review",ScienceDirect,0,0,1
+Decoding fake news fabrications and trends: A comprehensive survey,ScienceDirect,0,0,1
+DeePhyNet: Toward Detecting Phylogeny in Deepfakes,IEEE Xplore,0,1,0
+Deep learning for deepfakes creation and detection: A survey,ScienceDirect,0,0,1
+DeepFake detection method based on multi-scale interactive dual-stream network,Scopus,1,0,0
+DeepFake video detection: Insights into model generalisation — A Systematic review,ScienceDirect,0,0,1
+"Deepfake Audio Detection: a Multi Model, Multi Dataset Performance Study Using Deep Learning Architectures",IEEE Xplore,0,1,0
+Deepfake Detection Based on LSTM Networks with Facial Geometric Features,IEEE Xplore,0,1,0
+Deepfake Detection Based on Multi-scale RGB-Frequency Feature Fusion,"IEEE Xplore, Scopus",1,1,0
+Deepfake Detection Based on the Adaptive Fusion of Spatial-Frequency Features,Scopus,1,0,0
+Deepfake Detection Fighting Against Noisy Label Attack,IEEE Xplore,0,1,0
+Deepfake Detection Model Combining Texture Differences and Frequency Domain Information,Scopus,1,0,0
+Deepfake Detection Using Graph Representation with Multi-dimensional Features,IEEE Xplore,0,1,0
+Deepfake Detection and Cybersecurity Index: The Role of Computer Vision as a Digital Forensic Tool,IEEE Xplore,0,1,0
+Deepfake Detection and Localization Using Multi-View Inconsistency Measurement,IEEE Xplore,0,1,0
+Deepfake Detection using Multi-Stream Convolutional Neural Networks with Attention-based Fusion,IEEE Xplore,0,1,0
+Deepfake Detection using XAI based Deep Fusion Models,IEEE Xplore,0,1,0
+Deepfake Detection via Spatial-Frequency Attention Network,"IEEE Xplore, Scopus",1,1,0
+Deepfake Forensics Leveraging MobileNetV2 for High Precision Detection,IEEE Xplore,0,1,0
+Deepfake Video Authentication Based on Blockchain,IEEE Xplore,0,1,0
+Deepfake Video Detection Using Ada-Boosting on the DFDC Dataset,ScienceDirect,0,0,1
+Deepfake Video Detection Using the Frequency Characteristic of Remote Photoplethysmography,Scopus,1,0,0
+Deepfake Video Detection on Social Networks Using Multi-domain Aware Driven by Common Mechanism Analysis Between Artifacts; 伪影间共性机理驱动的多域感知社交网络深度伪造视频检测,Scopus,1,0,0
+Deepfake Voice Detection: Countering Deepfake Audio with Deep Learning Architectures,IEEE Xplore,0,1,0
+Deepfake detection based on Spatio-Temporal Fusion,"IEEE Xplore, Scopus",1,1,0
+Deepfake detection based on cross-domain local characteristic analysis with multi-domain transformer,Scopus,1,0,0
+Deepfake detection method based on multi-feature fusion of frequency domain and spatial domain; 基于频域和空域多特征融合的深度伪造检测方法,Scopus,1,0,0
+"Deepfake video detection methods, approaches, and challenges",ScienceDirect,0,0,1
+"Deepfakes in digital media forensics: Generation, AI-based detection and challenges",ScienceDirect,0,0,1
+Detecting Deepfakes in Alternative Color Spaces to Withstand Unseen Corruptions,IEEE Xplore,0,1,0
+Detecting facial manipulated images via one-class domain generalization,Scopus,1,0,0
+Detection Of Deepfake Images,IEEE Xplore,0,1,0
+Detection of Deepfake Medical Images Based on Spatial and Frequency Domain Analysis,"IEEE Xplore, Scopus",1,1,0
+Detection of Diffusion Model-Generated Faces by Assessing Smoothness and Noise Tolerance,IEEE Xplore,0,1,0
+DiffSeg: Towards Detecting Diffusion-Based Inpainting Attacks Using Multi-Feature Segmentation,IEEE Xplore,0,1,0
+Diffusion-Aware Deepfake Detection via Kernel PCA on Noise Residuals for Semantic Communication,IEEE Xplore,0,1,0
+Disruptive Attacks on Face Swapping via Low-Frequency Perceptual Perturbations,IEEE Xplore,0,1,0
+Dodging DeepFake Detection via Implicit Spatial-Domain Notch Filtering,"IEEE Xplore, Scopus",1,1,0
+Domain Generalization via Aggregation and Separation for Audio Deepfake Detection,IEEE Xplore,0,1,0
+EDL-Det: A Robust TTS Synthesis Detector Using VGG19-Based YAMNet and Ensemble Learning Block,IEEE Xplore,0,1,0
+EmoSense: A multimodal sentiment-aware framework for music short video AI-generated content detection,ScienceDirect,0,0,1
+End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation,IEEE Xplore,0,1,0
+Enhancing Deepfake Detection Through Dynamics of Facial Expressions,"IEEE Xplore, Scopus",1,1,0
+Enhancing Resilience of Deepfake Detection using Adversarial Frequency Masking,Scopus,1,0,0
+Evading Deepfake Detectors via Adversarially Degrading and Restoring Forged Images,"IEEE Xplore, Scopus",1,1,0
+Explainable deepfake detection across different modalities: An overview of methods and challenges,ScienceDirect,0,0,1
+Exploiting Facial Relationships and Feature Aggregation for Multi-Face Forgery Detection,IEEE Xplore,0,1,0
+Exploring the Adversarial Robustness of CLIP for AI-generated Image Detection,IEEE Xplore,0,1,0
+Exploring the Impact of Moire Pattern on Deepfake Detectors,IEEE Xplore,0,1,0
+"Exploring the Landscape of Compressed DeepFakes: Generation, Dataset and Detection",ScienceDirect,0,0,1
+Exposing Audio-Visual Forgeries in Frequency Domain,Scopus,1,0,0
+Extending the theory of information poverty to deepfake technology,ScienceDirect,0,0,1
+FA3-CLIP: Frequency-Aware Cues Fusion and Attack-Agnostic Prompt Learning for Unified Face Attack Detection,IEEE Xplore,0,1,0
+FAClue: Exploring Frequency Clues by Adaptive Frequency-Attention for Deepfake Detection,"IEEE Xplore, Scopus",1,1,0
+FALCON: Frequency-Aware Lightweight Convolutional Optimized Network,"IEEE Xplore, Scopus",1,1,0
+FCD-Net: Learning to Detect Multiple Types of Homologous Deepfake Face Images,"IEEE Xplore, Scopus",1,1,0
+FDS_2D: rethinking magnitude-phase features for DeepFake detection,Scopus,1,0,0
+FETNet: frequency-enhanced transformer network for face forgery detection,Scopus,1,0,0
+FLAG: frequency-based local and global network for face forgery detection,Scopus,1,0,0
+FTA-DFI: a framework for generalizable deepfake detection based on distinctive features from various manipulations compared to genuine images,Scopus,1,0,0
+FTDKD: Frequency-Time Domain Knowledge Distillation for Low-Quality Compressed Audio Deepfake Detection,IEEE Xplore,0,1,0
+Face Forgery Detection Algorithm Based on Improved MobileViT Network,IEEE Xplore,0,1,0
+Face Forgery Detection via Multi-Feature Fusion and Local Enhancement,IEEE Xplore,0,1,0
+Face Swapping Attack Detection Using Multistream Feature Embeddings,IEEE Xplore,0,1,0
+Face forgery detection with a fused attention mechanism,IEEE Xplore,0,1,0
+FairSSD: Understanding Bias in Synthetic Speech Detectors,IEEE Xplore,0,1,0
+Fake Face Detection Based on Fusion of Spatial Texture and High-Frequency Noise,IEEE Xplore,0,1,0
+Fighting Deepfake by Exposing the Convolutional Traces on Images,IEEE Xplore,0,1,0
+Fourier-Based GAN Fingerprint Detection Using ResNet50,"IEEE Xplore, Scopus",1,1,0
+Frame-to-Utterance Convergence: A Spectra-Temporal Approach for Unified Spoofing Detection,IEEE Xplore,0,1,0
+FreqDebias: Towards Generalizable Deepfake Detection via Consistency-Driven Frequency Debiasing,IEEE Xplore,0,1,0
+FreqFaceNet: an enhanced transformer architecture with dual-order frequency attention for deepfake detection,Scopus,1,0,0
+Frequency Domain Filtered Residual Network for Deepfake Detection,Scopus,1,0,0
+Frequency domain deepfake detection based on two-stream neural network,Scopus,1,0,0
+Frequency-Assisted Temporal Upsampling Artifacts Representation Learning for Face Forgery Detection,IEEE Xplore,0,1,0
+Frequency-Domain Masking and Spatial Interaction for Generalizable Deepfake Detection,Scopus,1,0,0
+From Deepfakes to Digital Truths: The Role of Watermarking in AI-Generated Image Verification,IEEE Xplore,0,1,0
+GASGM-GFT: Gaussian Attenuation Singing Graph Model and Graph Fourier Transform for Singing Voice Deepfake Detection,IEEE Xplore,0,1,0
+GC-ConsFlow: Leveraging Optical Flow Residuals and Global Context for Robust Deepfake Detection,IEEE Xplore,0,1,0
+GTA-Net: A Robust Method for Deepfake Face Image Detection,IEEE Xplore,0,1,0
+GenAI mirage: The impostor bias and the deepfake detection challenge in the era of artificial illusions,ScienceDirect,0,0,1
+Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation,IEEE Xplore,0,1,0
+Generalizable Deepfake Detection With Phase-Based Motion Analysis,IEEE Xplore,0,1,0
+Generalizable face forgery detection based on adaptive spatial-frequency information mining,Scopus,1,0,0
+"Generation and detection of manipulated multimodal audiovisual content: Advances, trends and open challenges",ScienceDirect,0,0,1
+Guardian AI: Synthetic Media Forensics through Multimodal Fusion and Advanced Machine Learning,IEEE Xplore,0,1,0
+HSFF-Net: Hierarchical spectral-feature fusion network for deepfake detection and localization,Scopus,1,0,0
+Harmonizing Dynamic Frequency Analysis with Attention Mechanisms for Efficient Facial Image Authenticity Detection,"IEEE Xplore, Scopus",1,1,0
+HiTAL: Hierarchical Thumbnail and Latent Augmentation for Deepfake Detection,IEEE Xplore,0,1,0
+Hierarchical supervisions with two-stream network for Deepfake detection,Scopus,1,0,0
+Hubert-Derived SSL Features and ECAPA-TDNN Matching for Robust Audio Deepfake Detection,IEEE Xplore,0,1,0
+Hybrid CNN–Transformer Ensemble for Robust Deepfake Video Detection,IEEE Xplore,0,1,0
+"HybridNet: Advancing Deepfake Detection Through Residual, SE, and Depthwise Convolutions",IEEE Xplore,0,1,0
+ISTVT: Interpretable Spatial-Temporal Video Transformer for Deepfake Detection,IEEE Xplore,0,1,0
+Identification of Deepfakes using Strategic Models and Architectures,"IEEE Xplore, Scopus",1,1,0
+Identity-Referenced Deepfake Detection with Contrastive Learning,Scopus,1,0,0
+Improved Deepfake Detection with Optimized Preprocessing for Low-Quality Images,ScienceDirect,0,0,1
+Improving Deepfake Detectors against Real-world Perturbations with Amplitude-Phase Switch Augmentation,Scopus,1,0,0
+Improving Generalization in Facial Manipulation Detection Using Image Noise Residuals and Temporal Features,IEEE Xplore,0,1,0
+Integrating GLCM Texture Analysis for Improved Deepfake Detection on CelebDF(v2) Dataset,IEEE Xplore,0,1,0
+Interactive Two-Stream Network Across Modalities for Deepfake Detection,"IEEE Xplore, Scopus",1,1,0
+LGDF-Net: Local and Global Feature-Based Dual-Branch Fusion Networks for Deepfake Detection,IEEE Xplore,0,1,0
+Learned Image Compression for Deepfake Detection,IEEE Xplore,0,1,0
+Learning Generalizable Representations for Deepfake Detection with Realistic Sample Generation and Dual Augmentation,IEEE Xplore,0,1,0
+Learning Local Texture and Global Frequency Clues for Face Forgery Detection,Scopus,1,0,0
+Leveraging Deep Learning Methods for Detecting Deepfake Speeches,IEEE Xplore,0,1,0
+Leveraging Pixel Difference Feature for Deepfake Detection,IEEE Xplore,0,1,0
+LiSiam: Localization Invariance Siamese Network for Deepfake Detection,Scopus,1,0,0
+Lightweight and Accurate: Deepfake Detection using Binary Neural Networks and Vision Transformer,IEEE Xplore,0,1,0
+Local Region Frequency Guided Dynamic Inconsistency Network for Deepfake Video Detection,IEEE Xplore,0,1,0
+Local frequency analysis for diffusion-generated image detection,Scopus,1,0,0
+Low Resolution Deepfake Face Detection using Multi-Scale Discrete Cosine Transform and Vision Transformer,IEEE Xplore,0,1,0
+M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection,Scopus,1,0,0
+MC-LCR: Multimodal contrastive classification by locally correlated representations for effective face forgery detection,Scopus,1,0,0
+MCDF: Multimodal information fusion and causal analysis for election misinformation detection,ScienceDirect,0,0,1
+MDCF-Net: Multi-Scale Dual-Branch Network for Compressed Face Forgery Detection,"IEEE Xplore, Scopus",1,1,0
+MEXFIC: A meta ensemble eXplainable approach for AI-synthesized fake image classification,ScienceDirect,0,0,1
+MFCC vs. LFCC for Audio Deepfake Detection: The Role of Delta Features and Input Length,IEEE Xplore,0,1,0
+MIFAE-Forensics: Masked Image-Frequency AutoEncoder for DeepFake Detection,IEEE Xplore,0,1,0
+MRE-Net: Multi-Rate Excitation Network for Deepfake Video Detection,"IEEE Xplore, Scopus",1,1,0
+MaskSim: Detection of synthetic images by masked spectrum similarity analysis,IEEE Xplore,0,1,0
+Masked Relation Learning for DeepFake Detection,IEEE Xplore,0,1,0
+Mdff-Net: A Multi-Domain Feature-Fusion Network for Robust Deepfake Video Detection,IEEE Xplore,0,1,0
+Multi branch deepfake detection based on double attention mechanism,IEEE Xplore,0,1,0
+Multi-Cue Fusion for Forgery Detection: a Spatial-Frequency and Chromatic Approach,IEEE Xplore,0,1,0
+Multi-Scale Feature Enhancement Network for Face Forgery Detection,Scopus,1,0,0
+Multi-Scale Self-Supervised Learning for Efficient Audio Deepfake Detection,IEEE Xplore,0,1,0
+Multi-domain Multi-scale DeepFake Detection for Generalization,"IEEE Xplore, Scopus",1,1,0
+Multi-domain awareness for compressed deepfake videos detection over social networks guided by common mechanisms between artifacts,Scopus,1,0,0
+Multiple Feature Mining Based on Local Correlation and Frequency Information for Face Forgery Detection,IEEE Xplore,0,1,0
+Multiscale Features Integrated Model for Generalizable Deepfake Detection,Scopus,1,0,0
+Navigating Deepfakes with Data Science: A Multi-Modal Analysis and Blockchain-Based Detection Framework,IEEE Xplore,0,1,0
+Noise-aware progressive multi-scale deepfake detection,Scopus,1,0,0
+Open Challenges in Synthetic Speech Detection,IEEE Xplore,0,1,0
+Pandora's Black or White Box: Are AI Tools Undermining Evidence?,IEEE Xplore,0,1,0
+Pixel Bleach Network for Detecting Face Forgery Under Compression,IEEE Xplore,0,1,0
+"Potential of artificial intelligence in deepfake media: From generation to detection mechanisms, state-of-the-art, and challenges",ScienceDirect,0,0,1
+Preserving Visual Authenticity: Block chain-Augmented AI Frameworks for Advanced Digital Deception Recognition and Mitigation,IEEE Xplore,0,1,0
+"Quantitative Dissection of Spatial, Temporal, and Frequency Features in Deepfake Detection",IEEE Xplore,0,1,0
+RAW Data: A Key Component for Effective Deepfake Detection,IEEE Xplore,0,1,0
+RE-Mark: An Identity-Recovery Watermarking Method for Undoing Deepfake Face-Swap,IEEE Xplore,0,1,0
+RLGC: Reconstruction Learning Fusing Gradient and Content Features for Efficient Deepfake Detection,IEEE Xplore,0,1,0
+Real-Time Deepfake Video Detection using Machine Learning: A CNN-based Authentication Framework,IEEE Xplore,0,1,0
+Recalibrated Bandpass Filtering On Temporal Waveform For Audio Spoof Detection,IEEE Xplore,0,1,0
+Representation Alignment For Deepfake Detection,"IEEE Xplore, Scopus",1,1,0
+Rethinking the Up-Sampling Operations in CNN-Based Generative Network for Generalizable Deepfake Detection,IEEE Xplore,0,1,0
+Review of Deepfake Detection Techniques and Challenges,IEEE Xplore,0,1,0
+Review of research on face deepfake detection methods; 人脸深度伪造检测方法研究综述,Scopus,1,0,0
+Revisiting Generalizability in Deepfake Detection: Improving Metrics and Stabilizing Transfer,IEEE Xplore,0,1,0
+Robust AI-Synthesized Speech Detection Using Feature Decomposition Learning and Synthesizer Feature Augmentation,IEEE Xplore,0,1,0
+SFSimNet: An Efficient Spatial-Frequency Multi-Scale Intra-Feature Similarity Measurement Network for Deepfake Detection,IEEE Xplore,0,1,0
+STC-CapsNet: Detecting Audio Deepfakes with Spatio-Temporal Convolutions and Capsule Networks,IEEE Xplore,0,1,0
+Security Strengthen and Detection of Deepfake Videos and Images Using Deep Learning Techniques,IEEE Xplore,0,1,0
+Seeing Through the Blur: Unlocking Defocus Maps for Deepfake Detection,Scopus,1,0,0
+SiamNet: Exploiting source camera noise discrepancies using Siamese Network for Deepfake Detection,Scopus,1,0,0
+Space–Frequency and Global–Local Attentive Networks for Sequential Deepfake Detection,IEEE Xplore,0,1,0
+Spatial-Temporal Frequency Forgery Clue for Video Forgery Detection in VIS and NIR Scenario,IEEE Xplore,0,1,0
+Spatial-frequency feature fusion based deepfake detection through knowledge distillation,Scopus,1,0,0
+Spatiotemporal Deepfake Video Detection: A Hybrid CNN-Transformer Approach with Frequency Analysis,IEEE Xplore,0,1,0
+SpecXNet: A Dual-Domain Convolutional Network for Robust Deepfake Detection,Scopus,1,0,0
+SpectralFusionNet: Adaptive Frequency-Spatial Feature Fusion for Robust Deepfake Detection,"IEEE Xplore, Scopus",1,1,0
+SwinGAN: A Synergistic Approach Combining Swin Transformers and GANs for DeepFake Detection,IEEE Xplore,0,1,0
+Synthetic Voice Detection and Audio Splicing Detection using SE-Res2Net-Conformer Architecture,IEEE Xplore,0,1,0
+The Growing Need for Deepfakes Detection in the Age of AI-Generated Media,IEEE Xplore,0,1,0
+Trinity Detector: Text-Assisted and Attention Mechanisms Based Spectral Fusion for Diffusion Generation Image Detection,IEEE Xplore,0,1,0
+UniForensics: Face Forgery Detection via General Facial Representation,IEEE Xplore,0,1,0
+Unlocking A New Paradigm In Robustness For Multi-Step Facial Forgery Detection,IEEE Xplore,0,1,0
+"Unmasking Deepfakes: A Review of Current Datasets, Tools, and Detection Features",ScienceDirect,0,0,1
+Unmasking deepfakes: A systematic review of deepfake detection and generation techniques using artificial intelligence,ScienceDirect,0,0,1
+"Unmasking digital deceptions: An integrative review of deepfake detection, multimedia forensics, and cybersecurity challenges",ScienceDirect,0,0,1
+Unsupervised Learning-Based Framework for Deepfake Video Detection,IEEE Xplore,0,1,0
+"Unveiling cybersecurity mysteries: A comprehensive survey on digital forensics trends, threats, and solutions in network security",ScienceDirect,0,0,1
+VCF: A Real-World Video Conference Deepfake Benchmark for Face-Swap Detection and Robustness Evaluation,Scopus,1,0,0
+ViT-Xplain: A Transparent Deepfake Detector for Consumer Electronics Based on Attention and Explainable AI,IEEE Xplore,0,1,0
+"Visual Deepfake Detection: Review of Techniques, Tools, Limitations, and Future Prospects",IEEE Xplore,0,1,0
+Voices of Deception - Detecting AI-Synthesized Speech Using Spectrotemporal Features and Hybrid Learning Models,IEEE Xplore,0,1,0
+WaViT-CDC: Wavelet Vision Transformer With Central Difference Convolutions for Spatial-Frequency Deepfake Detection,IEEE Xplore,0,1,0
+WaveDIF: Wavelet Sub-Band based Deepfake Identification in Frequency Domain,"IEEE Xplore, Scopus",1,1,0
+WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks,"IEEE Xplore, Scopus",1,1,0
+Wavelet-based GAN Fingerprint Detection using ResNet50,IEEE Xplore,0,1,0
+What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain,IEEE Xplore,0,1,0
+Within 3DMM Space: Exploring Inherent 3D Artifact for Video Forgery Detection,IEEE Xplore,0,1,0

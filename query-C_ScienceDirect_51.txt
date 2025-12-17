@@ -1,0 +1,625 @@
+Nallagula Karthik Sagar, Srinivas Arukonda,
+A Novel CNN-LSTM Approach for Robust Deepfake Detection,
+Procedia Computer Science,
+Volume 258,
+2025,
+Pages 1844-1855,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2025.04.436.
+(https://www.sciencedirect.com/science/article/pii/S187705092501539X)
+Abstract: The rapid spread of deepfake videos poses significant challenges to the credibility of digital media, raising concerns over pri- vacy, misinformation, and trustworthiness. This research introduces a hybrid model combining Long Short-Term Memory (LSTM) networks and Convolutional Neural Networks (CNNs) to enhance deepfake detection. By leveraging ResNeXt-50 for extracting relevant features and LSTMs for capturing frame-to-frame dependencies, the proposed architecture effectively detects altered facial features in videos. Key preprocessing techniques, including face detection, extraction, and segmentation, optimize input data by isolating relevant facial regions. Experimental results demonstrate that this approach outperforms current methods in identifying subtle deepfake artifacts, underscoring the need for robust detection mechanisms to protect the credibility of digital media. Future work will explore improved scalability and real-time applications of this technique.
+Keywords: DeepFake Detection; Machine Learning; Deep Learning; Image Classification; Face Recognition; LSTM; Convolutional Neural Networks
+
+Jiajia Li, Ziyi Pan, Teng Xiao, Ping Wang, Qibiao Hu, Jingrui Hou,
+EmoSense: A multimodal sentiment-aware framework for music short video AI-generated content detection,
+Information Processing & Management,
+Volume 63, Issue 2, Part B,
+2026,
+104473,
+ISSN 0306-4573,
+https://doi.org/10.1016/j.ipm.2025.104473.
+(https://www.sciencedirect.com/science/article/pii/S0306457325004145)
+Abstract: The rapid spread of AI-generated content (AIGC) music short videos on social media has introduced new challenges for information authenticity and public trust. Although existing studies have explored multimodal detection techniques, they often fail to model the nuanced emotional and semantic interplay between modalities—particularly the alignment between musical affect and visual-textual content. Such limitations significantly hinder detection accuracy in complex, sentiment-rich AIGC scenarios. To address these challenges, we propose EmoSense, a sentiment-aware framework tailored for music short video AIGC detection. EmoSense comprises two key modules: a Sentiment Alignment Module that models emotional-semantic coherence across text, audio, and visuals via cross-modal embedding, and a Trace Analysis Module that detects spatial–temporal inconsistencies characteristic of synthetic content. Additionally, A deep fusion strategy further enhances cross-modal complementarity, improving both robustness and generalization. To support evaluation, we introduce MSV-AIGC, a real-world, human-annotated multimodal dataset containing 2912 labeled samples (1562 authentic and 1350 AI-generated), covering aligned those modalities. Experimental results show that EmoSense outperforms state-of-the-art baseline on this dataset, achieving 2.27% gains in accuracy and surpassing GPT-4V by 10.7%, highlighting its robustness in detecting synthetic music short videos.
+Keywords: Multimodal; AI-generated content detection; Sentiment analysis; Music short video; Feature fusion
+
+Mubarak Alrashoud,
+Deepfake video detection methods, approaches, and challenges,
+Alexandria Engineering Journal,
+Volume 125,
+2025,
+Pages 265-277,
+ISSN 1110-0168,
+https://doi.org/10.1016/j.aej.2025.04.007.
+(https://www.sciencedirect.com/science/article/pii/S111001682500465X)
+Abstract: Deepfake technology creates highly realistic manipulated videos using deep learning models, which makes distinguishing between authentic and fake content extremely difficult. This technology can negatively affect society by breaching privacy and spreading misinformation. This paper presents a comprehensive survey of the recent deepfake video detection approaches and methods. Each deepfake video method is analyzed according to its ability to generalize diverse deepfake fabrication techniques and real-world scenes. We reviewed around 103 articles which eventually shrunk down to 73 based on the screening criteria like abstract/title/irrelevant focus/duplication. The study primarily covers audio-based, visual-based, and multi-modal detection methods. Also, it discusses the usage of Convolutional Neural Networks (CNNs), frequency-domain analysis, and audio-visual synchronization in deepfake video detection and evaluates the strengths and shortcomings of these techniques. Moreover, the study explores major issues such as low resolution, video compression, and adversarial attacks, which prove to be a barrier to making deepfake video detection processes robust. By connecting findings from numerous studies, this research draws attention to the development of standard benchmarking SOPs and multi-modal detection techniques to improve detection performance.
+Keywords: Deepfake video detection; CNNs; Frequency-domain analysis; Multi-modal detection; Adversarial attacks; Video compression; Audio-visual synchronization
+
+Akanbi Bolakale AbdulQudus, Oluwatosin Ahmed Amodu, Umar Ali Bukar, Raja Azlina Raja Mahmood, Anies Faziehan Zakaria, Saki-Ogah Queen, Zurina Mohd Hanapi,
+A Contemporary and Comprehensive Bibliometric Exposition on Deepfake Research and Trends,
+Computers, Materials and Continua,
+Volume 84, Issue 1,
+2025,
+Pages 153-236,
+ISSN 1546-2218,
+https://doi.org/10.32604/cmc.2025.061427.
+(https://www.sciencedirect.com/science/article/pii/S1546221825005521)
+Abstract: This paper provides a comprehensive bibliometric exposition on deepfake research, exploring the intersection of artificial intelligence and deepfakes as well as international collaborations, prominent researchers, organizations, institutions, publications, and key themes. We performed a search on the Web of Science (WoS) database, focusing on Artificial Intelligence and Deepfakes, and filtered the results across 21 research areas, yielding 1412 articles. Using VOSviewer visualization tool, we analyzed this WoS data through keyword co-occurrence graphs, emphasizing on four prominent research themes. Compared with existing bibliometric papers on deepfakes, this paper proceeds to identify and discuss some of the highly cited papers within these themes: deepfake detection, feature extraction, face recognition, and forensics. The discussion highlights key challenges and advancements in deepfake research. Furthermore, this paper also discusses pressing issues surrounding deepfakes such as security, regulation, and datasets. We also provide an analysis of another exhaustive search on Scopus database focusing solely on Deepfakes (while not excluding AI) revealing deep learning as the predominant keyword, underscoring AI’s central role in deepfake research. This comprehensive analysis, encompassing over 500 keywords from 8790 articles, uncovered a wide range of methods, implications, applications, concerns, requirements, challenges, models, tools, datasets, and modalities related to deepfakes. Finally, a discussion on recommendations for policymakers, researchers, and other stakeholders is also provided.
+Keywords: Deepfake; bibliometric; deepfake detection; deep learning; recommendations
+
+Thanh Thi Nguyen, Quoc Viet Hung Nguyen, Dung Tien Nguyen, Duc Thanh Nguyen, Thien Huynh-The, Saeid Nahavandi, Thanh Tam Nguyen, Quoc-Viet Pham, Cuong M. Nguyen,
+Deep learning for deepfakes creation and detection: A survey,
+Computer Vision and Image Understanding,
+Volume 223,
+2022,
+103525,
+ISSN 1077-3142,
+https://doi.org/10.1016/j.cviu.2022.103525.
+(https://www.sciencedirect.com/science/article/pii/S1077314222001114)
+Abstract: Deep learning has been successfully applied to solve various complex problems ranging from big data analytics to computer vision and human-level control. Deep learning advances however have also been employed to create software that can cause threats to privacy, democracy and national security. One of those deep learning-powered applications recently emerged is deepfake. Deepfake algorithms can create fake images and videos that humans cannot distinguish them from authentic ones. The proposal of technologies that can automatically detect and assess the integrity of digital visual media is therefore indispensable. This paper presents a survey of algorithms used to create deepfakes and, more importantly, methods proposed to detect deepfakes in the literature to date. We present extensive discussions on challenges, research trends and directions related to deepfake technologies. By reviewing the background of deepfakes and state-of-the-art deepfake detection methods, this study provides a comprehensive overview of deepfake techniques and facilitates the development of new and more robust methods to deal with the increasingly challenging deepfakes.
+Keywords: Deepfakes; Face manipulation; Artificial intelligence; Deep learning; Autoencoders; GAN; Forensics; Survey
+
+Gueltoum Bendiab, Houda Haiouni, Isidoros Moulas, Stavros Shiaeles,
+Deepfakes in digital media forensics: Generation, AI-based detection and challenges,
+Journal of Information Security and Applications,
+Volume 88,
+2025,
+103935,
+ISSN 2214-2126,
+https://doi.org/10.1016/j.jisa.2024.103935.
+(https://www.sciencedirect.com/science/article/pii/S2214212624002370)
+Abstract: Deepfake technology presents significant challenges for digital media forensics. As deepfakes become increasingly sophisticated, the ability to detect and attribute manipulated media becomes more difficult. The main challenge lies in the realistic and convincing nature of deepfakes, which can deceive human perception and traditional forensic techniques. Furthermore, the widespread availability of open-source deepfake tools and increasing computational power contribute to the ease with which malicious actors can create and disseminate deepfakes. The challenges posed by deepfakes for digital media forensics are multifaceted. Therefore, the development of sophisticated detection algorithms, the creation of comprehensive datasets, and the establishment of legal frameworks are crucial in addressing these challenges. This paper provides a comprehensive analysis of current methods for deepfake generation and the issues surrounding their detection. It also explores the potential of modern AI-based detection techniques in combating the proliferation of deepfakes. This analysis aims to contribute to advancing deepfake detection by highlighting the limits of current detection techniques, the most relevant issues, the upcoming challenges, and suggesting future directions for research.
+Keywords: Deepfake; Artificial intelligence; Digital media forensics; Security; Deepfake detection
+
+Mateusz Kazimierczak, Nuzaira Habib, Jonathan H. Chan, Thanyathorn Thanapattheerakul,
+Impact of AI on the Cyber Kill Chain: A Systematic Review,
+Heliyon,
+Volume 10, Issue 24,
+2024,
+e40699,
+ISSN 2405-8440,
+https://doi.org/10.1016/j.heliyon.2024.e40699.
+(https://www.sciencedirect.com/science/article/pii/S2405844024167308)
+Abstract: The Cyber Kill Chain (CKC) defense model aims to assist subject matter experts in planning, identifying, and executing against cyber intrusion activity, by outlining seven stages required for adversaries to execute an attack. Recent advancements in Artificial Intelligence (AI) have empowered adversaries to execute sophisticated attacks to exploit system vulnerabilities. As a result, it is essential to consider how AI-based tools change the cyber threat landscape and affect the current standard CKC model. Thus, this study examines and categorizes how attackers use AI-based tools, and offers potential defense mechanisms. We conducted a systematic literature review of 62 papers published between 2013 and 2023 from the Web of Science and Google Scholar databases. Our findings indicate that AI-based tools are used most effectively in the initial stages of cyberattacks. However, we find that current defense tools are not designed to counter these sophisticated attacks during these stages. Thus, we provide insights to 1) highlight the changing threat landscape due to AI and 2) to guide the development of cyber defense mechanisms.
+Keywords: Cybersecurity; Cyber attacks; Artificial intelligence in cybersecurity; Cyber kill chain; Adversarial AI; AI-based cyber attacks; Systems security; Intrusion/anomaly detection and malware mitigation; Software and application security
+
+Dmitry Efanov, Pavel Aleksandrov, Nikolay Karapetyants,
+The BiLSTM-based synthesized speech recognition,
+Procedia Computer Science,
+Volume 213,
+2022,
+Pages 415-421,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2022.11.086.
+(https://www.sciencedirect.com/science/article/pii/S187705092201777X)
+Abstract: Homer Dudley's VODER is considered the first attempt to synthesize human speech electronically by breaking it down into acoustic components. Fifty years later, Terminator 2 featured an example of human speech synthesized with artificial intelligence that was used to deceive a human. Speech synthesis is the artificial simulation of human speech using a computer or other device. The counterpart of the voice recognition, speech synthesis is mainly used to convert textual information into audio information so that a person can naturally interact with digital devices. For example, it is used in assistive technology to help visually impaired people read textual content. A separate direction is the use of speech synthesis to create a clone of a person's voice. Deepfake voice technology, also called voice cloning, has advanced to the point where it can accurately reproduce the human voice by mimicking intonation and other features of the speaker. And it can be used to harm a person. Attackers can employ it to fool voice authentication systems or create fake audio recordings to defame public figures, or combine voice clone with social engineering techniques to bamboozle people. This article discusses the architecture of a voice recognition system that will significantly reduce the possibility of fraud using deepfake voice.
+Keywords: synthesized speech; deepfake voice; voice cloning; LSTM
+
+Jiangyan Yi, Jianhua Tao, Ye Bai, Zhengkun Tian, Cunhang Fan,
+Transfer knowledge for punctuation prediction via adversarial training,
+Speech Communication,
+Volume 149,
+2023,
+Pages 1-10,
+ISSN 0167-6393,
+https://doi.org/10.1016/j.specom.2023.03.003.
+(https://www.sciencedirect.com/science/article/pii/S0167639323000353)
+Abstract: Previous studies demonstrate that part-of-speech (POS) tags are helpful for punctuation restoration tasks. However, extra computation cost will be needed during decoding, due to POS tags are provided by an external POS tagger. This paper proposes to transfer knowledge via adversarial training and orthogonality constraints to fill in the gap. Adversarial multi-task learning is introduced to learn task invariant knowledge from the extra POS tagging task for a punctuation prediction task. Furthermore, orthogonality constraints are used to make private and shared features dissimilar. Only the punctuation predicting task is used during decoding. So extra computation is not needed. Experiments are conducted on IWSLT2011 datasets. The results show that the punctuation predicting models trained with adversarial learning obtain performance gains over the baseline models on test sets. The results also demonstrate that the models trained with orthogonality constraints further obtain performance improvement.
+Keywords: Adversarial multi-task learning; Multi-modal embeddings; Part-of-speech tagging; Orthogonality constraints; Punctuation prediction
+
+Ashish Kumar, Divya Singh, Rachna Jain, Deepak Kumar Jain, Chenquan Gan, Xudong Zhao,
+Advances in DeepFake detection algorithms: Exploring fusion techniques in single and multi-modal approach,
+Information Fusion,
+Volume 118,
+2025,
+102993,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2025.102993.
+(https://www.sciencedirect.com/science/article/pii/S1566253525000661)
+Abstract: In recent years, generative artificial intelligence has gained momentum and created extremely realistic synthetic multimedia content that can spread misinformation and mislead society. Deepfake detection is a technique consisting of frameworks, algorithms and approaches to predict manipulated contents namely, image, audio and video. To this end, we have analyzed and explored various deepfake detection frameworks by categorizing them as single-modal or multi-modal approaches. To provide better understanding and clarity, single-modal approaches are further categorized as conventional and advanced techniques. Conventional techniques extract complementary handcrafted features and classify them using machine-learning-based algorithms. On the other hand, advanced techniques adopt deep learning and hybrid algorithms to detect deepfakes. Multi-modal techniques utilize a mixture of two or more modalities for feature extraction and fuse them to obtain the final classification scores. These techniques are also categorized either as deep learning or hybrid techniques. The complementary features, multiple modalities, and deep learning models are fused adaptively using score-level or feature-level fusion. The advantages, features, practical applications, and limitations under each category are highlighted to address the challenges and determine future trends to counter deepfakes. In addition, recommendations are also elaborated to evaluate the potential of artificial intelligence in deepfake detection for providing a safer and more reliable digital world.
+Keywords: DeepFake; Artificial intelligence; Generative adversarial network; Fusion algorithms; Transformer; Detection
+
+Mark S. Nixon, Alberto S. Aguado,
+Chapter 5 - Low-level feature extraction (including edge detection)∗,
+Editor(s): Mark S. Nixon, Alberto S. Aguado,
+Feature Extraction and Image Processing for Computer Vision (Fifth Edition),
+Academic Press,
+2026,
+Pages 213-304,
+ISBN 9780443366864,
+https://doi.org/10.1016/B978-0-443-36686-4.00013-4.
+(https://www.sciencedirect.com/science/article/pii/B9780443366864000134)
+Abstract: We shall define low-level features to be those basic features that can be extracted automatically from an image without any shape information (information about spatial relationships). As such, thresholding is actually a form of low-level feature extraction performed as a point operation. Naturally, all of these approaches can be used in high-level feature extraction, where we find shapes in images. There are very basic techniques and more advanced ones, and we shall look at some of the most popular approaches. The first-order detectors are equivalent to first-order differentiation and, naturally, the second-order edge detection operators are equivalent to a one-higher level of differentiation. An alternative form of edge detection is called phase congruency, and we shall again see the frequency domain used to aid analysis; this time for low-level feature extraction. We shall also consider corner detection, which can be thought of as detecting those points where lines bend very sharply with high curvature and saliency, which are important points. These are the other low-level features that again can be extracted automatically from the image. Finally, we shall investigate techniques that describe motion, called optical flow.
+Keywords: Canny; Context aware saliency; Corner detection; Correlation; Curvature; DeepFlow; Differential approach; Edge detection; FAST; First and second order operators; Harris; Implementation; Laplacian of Gaussian; Marr-Hildreth; Optical flow; ORB; Phase congruency; Prewitt; Roberts; Saliency; SIFT; Sobel; SURF; Velocity and acceleration; Window size; Zero-crossing detection
+
+Jamin Rahman Jim, Md Apon Riaz Talukder, Partha Malakar, Md Mohsin Kabir, Kamruddin Nur, M.F. Mridha,
+Recent advancements and challenges of NLP-based sentiment analysis: A state-of-the-art review,
+Natural Language Processing Journal,
+Volume 6,
+2024,
+100059,
+ISSN 2949-7191,
+https://doi.org/10.1016/j.nlp.2024.100059.
+(https://www.sciencedirect.com/science/article/pii/S2949719124000074)
+Abstract: Sentiment analysis is a method within natural language processing that evaluates and identifies the emotional tone or mood conveyed in textual data. Scrutinizing words and phrases categorizes them into positive, negative, or neutral sentiments. The significance of sentiment analysis lies in its capacity to derive valuable insights from extensive textual data, empowering businesses to grasp customer sentiments, make informed choices, and enhance their offerings. For the further advancement of sentiment analysis, gaining a deep understanding of its algorithms, applications, current performance, and challenges is imperative. Therefore, in this extensive survey, we began exploring the vast array of application domains for sentiment analysis, scrutinizing them within the context of existing research. We then delved into prevalent pre-processing techniques, datasets, and evaluation metrics to enhance comprehension. We also explored Machine Learning, Deep Learning, Large Language Models and Pre-trained models in sentiment analysis, providing insights into their advantages and drawbacks. Subsequently, we precisely reviewed the experimental results and limitations of recent state-of-the-art articles. Finally, we discussed the diverse challenges encountered in sentiment analysis and proposed future research directions to mitigate these concerns. This extensive review provides a complete understanding of sentiment analysis, covering its models, application domains, results analysis, challenges, and research directions.
+Keywords: Sentiment classification; Text classification; Natural language processing; Emotion detection; Sentiment analysis
+
+Priyanka Arora, Sonika Dahiya,
+Enhancing Mental Health Diagnosis with DA-TabSVM: A Multi-Class Hybrid Approach for Detecting Depression and Anxiety,
+Procedia Computer Science,
+Volume 258,
+2025,
+Pages 1348-1364,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2025.04.368.
+(https://www.sciencedirect.com/science/article/pii/S187705092501470X)
+Abstract: Following the COVID-19 pandemic, as individuals adapted to a new normal, the likelihood of despair and anxiety rose. Depression’s effects can be lessened by early identification, suitable treatment, and support. The Sustainable Development Goals (SDGs) goals aim to reduce the burden of mental diseases by promoting mental health and well-being through comprehensive health strategies, reducing inequalities, and fostering supportive environments. Lately, automatic social media depression detection has gained attention as a promising field of study. However, we suggest a technique for using a model that learns to answer a mental health questionnaire and utilizing it to produce population-level predictions because there is a dearth of comprehensive annotated data. The purpose of this paper is to efficiently predict mental health conditions like depression and anxiety using data from psychological instruments. In this study, we propose an improved hybrid model employing DT+kNN and RF+NN which were applied on three datasets. Further, we propose a novel prediction model, DA-TabSVM, that can efficiently predict depression and anxiety using multiclass classification. The results show that the DT+kNN hybrid model achieves a maximum accuracy of 95% for predicting depression and 97% for predicting anxiety. Similarly, the RF+NN hybrid model achieves a maximum accuracy of 98% for predicting depression and anxiety. The performance of DA-TabSVM reached up to 97% in terms of accuracy on Dataset 1, 99% on Dataset 2, and 99% on Dataset 3 for depression detection and similarly high when detecting anxiety with a range reaching up to an accuracy of 100% on Dataset 3. Unlike standard strategies that may struggle with intricate feature relationships or be less flexible when dealing with different datasets, our hybrids make use of the complementary skills of many algorithms. Our findings demonstrate the usefulness of hybrid classifiers in mental health evaluation, advancing our knowledge in this crucial field.
+Keywords: Mental Health; Machine Learning; Deep Learning; Performance Analysis
+
+Maged Nasser, Noreen Izza Arshad, Abdulalem Ali, Hitham Alhussian, Faisal Saeed, Aminu Da'u, Ibtehal Nafea,
+A systematic review of multimodal fake news detection on social media using deep learning models,
+Results in Engineering,
+Volume 26,
+2025,
+104752,
+ISSN 2590-1230,
+https://doi.org/10.1016/j.rineng.2025.104752.
+(https://www.sciencedirect.com/science/article/pii/S2590123025008291)
+Abstract: The volume of data circulating from online sources is growing rapidly and comprises both reliable and unreliable information published through many different sources. Researchers are making plausible efforts to develop reliable methods for detecting and eliminating fake web news. Deep learning (DL) methods play a vital role in addressing various fake news detection problems and are found to perform better compared to conventional approaches, making them state-of-the-art in this field. This paper provides a comprehensive review and analysis of existent DL-based models for multimodal fake news detection, focusing on diverse aspects, including user profiles, news content, images, videos, and audio data. This study considered the latest articles within the last seven years, starting from 2018 to 2025, and about 963 quality articles were obtained from the journals and conferences selected for this study. Subsequently, 121 studies were chosen for our SLR after careful screening of the abstract and the full-text eligibility analysis. The findings showed that the Transformer models and Recurrent Neural Networks (RNNs) are the most popular deep learning techniques for detecting multimodal fake news, followed by the Convolutional Neural Networks (CNNs) techniques. The Twitter and Weibo datasets are the two most frequently used standard datasets, and the most frequently used metrics to evaluate the performance of these models are the accuracy, precision, recall, and F-scores. In conclusion, the limitations of the current methods were summarized and some exciting possibilities for future research were highlighted, including designing robust multilingual fake news detection systems, hybridization of deep learning models to enhance detection accuracy, integration of explainable AI (XAI), and facilitating real-time fake news detection models.
+Keywords: Multimodal fake news detection; Deep learning models; Transformers; Recurrent neural network (RNN); Convolutional neural networks (CNNs); Autoencoder (AE)
+
+Lazarus Kwao, Jing Ma, Sophyani Banaamwini Yussif, Matthew Quayson,
+MCDF: Multimodal information fusion and causal analysis for election misinformation detection,
+Information Fusion,
+Volume 125,
+2026,
+103470,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2025.103470.
+(https://www.sciencedirect.com/science/article/pii/S1566253525005433)
+Abstract: The rapid spread of election-related misinformation on social media poses a serious threat to public trust, democratic decision-making, and social stability. This form of misinformation is particularly persuasive and difficult to detect as it uses different types of content (modalities), including text, images, captions, and social interactions. These challenges undermine efforts to ensure trustworthy elections and enable timely intervention by policymakers and fact-checkers. However, existing detection approaches struggle with feature misalignment, cross-modal inconsistencies, and noisy social data, thereby limiting their ability to accurately classify misinformation and explain its propagation. To address these challenges, we propose MCDF, a Multimodal Causal Detection Framework, integrating fusion-driven misinformation detection with causal analysis. Our framework consists of three key components: (1) a multimodal rumor detection module, which employs Graph Convolutional Networks (GCNs) for social interaction modeling, Vision Transformers (ViTs) for visual feature extraction, and RoBERTa for text-caption encoding, dynamically aligned via Tensor Fusion Networks (TFNs); (2) a Noise-Gating Mechanism, which refines feature alignment by filtering misleading or redundant inputs, ensuring robust misinformation classification; and (3) DEMATEL, a causal inference module that quantifies misinformation drivers, bridging misinformation classification with explainability. We evaluate our model on Twitter (X), FakeNewsNet (GossipCO and PolitiFact), and a curated Ghana-specific election dataset, demonstrating state-of-the-art performance in both classification and causal inference. MCDF offers a practical and interpretable framework for combating misinformation in real-world political communication, providing actionable insights for electoral stakeholders, fact-checkers, and social media analysts.
+Keywords: Multimodal rumor detection; Causal analysis; DEMATEL; African election misinformation; Noise-Gating Mechanisms; Tensor Fusion Networks; Ghana elections
+
+Tuğba Çelikten, Aytuğ Onan,
+HybridGAD: Identification of AI-Generated Radiology Abstracts Based on a Novel Hybrid Model with Attention Mechanism,
+Computers, Materials and Continua,
+Volume 80, Issue 2,
+2024,
+Pages 3351-3377,
+ISSN 1546-2218,
+https://doi.org/10.32604/cmc.2024.051574.
+(https://www.sciencedirect.com/science/article/pii/S154622182400537X)
+Abstract: The purpose of this study is to develop a reliable method for distinguishing between AI-generated, paraphrased, and human-written texts, which is crucial for maintaining the integrity of research and ensuring accurate information flow in critical fields such as healthcare. To achieve this, we propose HybridGAD, a novel hybrid model that combines Long Short-Term Memory (LSTM), Bidirectional LSTM (Bi-LSTM), and Bidirectional Gated Recurrent Unit (Bi-GRU) architectures with an attention mechanism. Our methodology involves training this hybrid model on a dataset of radiology abstracts, encompassing texts generated by AI, paraphrased by AI, and written by humans. The major findings of our analysis indicate that HybridGAD achieves a high accuracy of 98%, significantly outperforming existing state-of-the-art models. This high performance is attributed to the model’s ability to effectively capture the contextual nuances and structural differences between AI-generated and human-written texts. In conclusion, HybridGAD not only enhances the accuracy of text classification in the field of radiology but also paves the way for more advanced medical diagnostic processes by ensuring the authenticity of textual information. Future research will focus on integrating textual and visual data for comprehensive radiology assessments and improving model generalization with partially labeled data. This study underscores the potential of HybridGAD in transforming medical text classification and highlights its applicability in ensuring the integrity and reliability of research in healthcare and beyond.
+Keywords: Generative artificial intelligence; AI-generated text detection; attention mechanism; hybrid model for text classification
+
+Tahereh Saheb, Mouwafac Sidaoui, Bill Schmarzo,
+Convergence of artificial intelligence with social media: A bibliometric & qualitative analysis,
+Telematics and Informatics Reports,
+Volume 14,
+2024,
+100146,
+ISSN 2772-5030,
+https://doi.org/10.1016/j.teler.2024.100146.
+(https://www.sciencedirect.com/science/article/pii/S277250302400032X)
+Abstract: The integration of artificial intelligence (AI) and social media has provided numerous benefits to businesses, including improved audience analysis and content optimization. However, AI has facilitated the spread of misinformation, emphasizing the importance of taking a balanced approach that considers both the technology's positive applications and its ethical risks. This paper looks at the intersection of AI and social media. The researchers use a mixed-method approach to analyze 1540 scholarly documents, combining bibliometric and systematic literature review techniques. The goal of this research is to identify the most important topics and trends, as well as potential business values and implications, in the AI Social Media domain. The first stage of the research involved a quantitative keyword co-occurrence analysis, which resulted in the identification of ten dominant themes. These include Conversational Agents & User Experience, Human Emotion and Content Recommendation & Moderation, Collective Intelligence in Emergency Management, Algorithmic Activism on social media, Deep Fakes and Fake News, Generative Artificial Intelligence, Algorithmic Bias in Content Moderation Systems, Deep Sentiment Analysis, Metaverse Technologies, and NLP & Mental Health Detection. Each identified theme is then subjected to a qualitative thematic literature review, which provides a more in-depth, context-specific understanding of the associated findings. Because of this comprehensive approach, the study provides a broad overview of the current state of AI social media, shedding light on the potential applications and far-reaching implications of this interdisciplinary nexus. The study's findings have the potential to shape strategic decision-making, policy development, and future research directions in this rapidly changing field.
+Keywords: Social media; Artificial intelligence; Bibliometric analysis; Qualitative research
+
+Shubham Sharma, Arvind Selwal,
+Potential of artificial intelligence in deepfake media: From generation to detection mechanisms, state-of-the-art, and challenges,
+Computer Science Review,
+Volume 60,
+2026,
+100866,
+ISSN 1574-0137,
+https://doi.org/10.1016/j.cosrev.2025.100866.
+(https://www.sciencedirect.com/science/article/pii/S157401372500142X)
+Abstract: Artificial intelligence (AI) plays an important role in the generation of deepfakes by leveraging advanced machine learning models to create hyper-realistic synthetic media across visual, audio, and multimodal formats. The rapid evolution of deepfake technologies, alongside the exponential growth of digital media, demands a comprehensive and critical examination of current capabilities and challenges. Although the concept of media manipulation is not new, the sophistication and accessibility of AI-driven deepfakes present significant threats of misinformation to society and hence cause societal manipulation. This manuscript presents a systematic review of deepfake generation and detection techniques from 2017 to 2025, highlighting the progression of generative models and evaluating detection strategies. The main focus of this work is on the state-of-the-art (SOTA) techniques using adversarial networks, vision transformers (ViTs), attention mechanisms, hybrid learning frameworks, and ensemble models. The study thoroughly examines the benefits and drawbacks of existing methods. It also points out how vulnerable detection systems are to adversarial attacks and compares modern methods with traditional forensic and heuristic approaches. The paper critically analyzes the strengths and limitations of existing models, underscores the susceptibility of detection systems to adversarial attacks, and contrasts contemporary approaches with traditional forensic and heuristic-based methods. In addition to technical insights, the review puts a major focus on practical concerns such as scalability, regulatory frameworks, and the broader societal impact of the deepfake technology. By including benchmark datasets, standard tools, performance evaluation metrics, and relevant policy discussions, the manuscript presents a forward-looking perspective on the ongoing arms race between deepfake generation and detection. The study ends by highlighting the need for strong, flexible, and understandable detection systems, backed by effective policy measures, to reduce the growing risks posed by deepfakes.
+Keywords: Artificial intelligence; Deep learning; Deepfakes; Deepfake detection; Generative adversarial networks (GAN); Autoencoders; Vision transformers (ViT); Explainable AI
+
+Domna Bilika, Nikoletta Michopoulou, Efthimios Alepis, Constantinos Patsakis,
+Hello me, meet the real me: Voice synthesis attacks on voice assistants,
+Computers & Security,
+Volume 137,
+2024,
+103617,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2023.103617.
+(https://www.sciencedirect.com/science/article/pii/S0167404823005278)
+Abstract: The radical advances in telecommunications and computer science have enabled a myriad of applications and novel seamless interactions with computing interfaces. Voice Assistants (VAs) have become the norm for smartphones, and millions of VAs incorporated in smart devices are used to control these devices in the smart home context. Previous research has shown that they are prone to attacks, leading vendors to implement countermeasures. One of these measures is to allow only a specific individual, the device's owner, to perform potentially dangerous tasks that may disclose personal information, involve monetary transactions, etc. To understand the extent to which VAs provide the necessary protection to their users, we experimented with two of the most widely used VAs, which the participants trained. We then utilised voice synthesis, using samples provided by participants, to synthesise commands that were used to trigger the corresponding VA and perform a dangerous task. Our extensive results showed that more than 30% of our audio synthesis attacks were successful and at least one successful attack for more than half of the participants. Moreover, they illustrate statistically significant variation among vendors and, in one case, even gender bias. The outcomes are rather alarming and require the deployment of further countermeasures to prevent exploitation, as the number of VAs in use is currently comparable to the world population.
+Keywords: Voice assistants; Voice synthesis; Android; IOS; Security; Synthesised voice
+
+Gaurav Kumar, Chhavi Dhiman,
+Decoding fake news fabrications and trends: A comprehensive survey,
+Neurocomputing,
+Volume 653,
+2025,
+131118,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2025.131118.
+(https://www.sciencedirect.com/science/article/pii/S0925231225017904)
+Abstract: Increased internet access has led to a surge in online content across blogs, websites, news portals, and social media, where people actively share personal ideas, opinions, ideologies while seeking information of their interest. However, relying on individual sources can lead to information overload and the spread of unverified data, often shaped by personal biases. This lack of fact-based reliability fuelled the generation and spread of fake news, undermining trust in digital information ecosystems. To tackle these challenges, Fake News Detection (FND) has become a crucial research area, drawing significant attention of experts to develop solutions to combat misinformation and restore trust in online information. This paper provides a comprehensive review of the changing patterns of fake news trends over time, tracing its shift from text to visual and eventually hybrid formats over the past decade. It reviews the generation and propagation of fake news, explores detection methods and highlights the challenges for efficient detection, including how human and algorithmic bias unknowingly contributes to its spread. The paper discusses key research questions and their implications, emphasizing why multimodal sentiment analysis outperforms other methods for detecting complex, malicious intent. It also provides an overview of popular datasets and resources, along with a bibliometric analysis highlighting key authors and leading institutes in the research area. Finally, it discusses the future direction of fake news detection, underscoring the need for continuous advancements in this rapidly evolving domain.
+Keywords: News fabrication; Fake news generation (FNG); Fake news propagation (FNP); Fake news detection (FND); Early detection; Changing trends; Social-media; Misinformation; Disinformation; Malinformation; LLMs; XAI; DeepFake
+
+Hsin-Hsuan Chung, Jiangping Chen,
+Misinformation detection: datasets, models and performance,
+Online Information Review,
+Volume 49, Issue 3,
+2024,
+Pages 570-584,
+ISSN 1468-4527,
+https://doi.org/10.1108/OIR-06-2024-0388.
+(https://www.sciencedirect.com/science/article/pii/S146845272400012X)
+Abstract: Purpose
+This paper aims to understand the characteristics of current misinformation detection studies, including the datasets used by researchers, the computational models or algorithms being developed or applied, and the performance of misinformation detection models or algorithms.
+Design/methodology/approach
+We first identified articles from the Scopus database with inclusion and exclusion criteria. Then a coding scheme was derived from the articles based on research questions. Next, datasets, models, and performance were coded. The paper concluded with answers to research questions and future research directions.
+Findings
+From 115 relevant articles published during 2019–2023 on misinformation detection. We found that most studies used previously existing datasets. Twitter (now X) has been the most widely used source for collecting social media misinformation data. The ten most frequently used datasets are identified. Most studies (96.1%) developed or applied machine learning, especially deep learning models. The most advanced current misinformation detection models could achieve pretty high performance. For example, among 104 studies reporting performance with accuracy, 44.2% achieved an accuracy of 0.95 or higher, and 24.0% achieved 0.90–0.94 on accuracy.
+Research limitations/implications
+Our study only reviewed English articles from 2019–2023 that are included in the Scopus database. Articles that are not included in the Scopus database are not reviewed.
+Practical implications
+The high performance of misinformation detection indicates that social media should be able to detect most misinformation if they are willing to do it. However, no system or algorithm could achieve 100% misinformation on performance. Due to the complexity of misinformation, users of social media still need to improve their capabilities of evaluating information on the Internet.
+Social implications
+This study provides evidence to policymakers that social media platforms have the capability of detecting most misinformation posted. These platforms are responsible for alerting to suspicious postings with misinformation.
+Originality/value
+This study identifies datasets, computer models, and performance of models from current misinformation detection research. The findings will help social media companies, computer scientists, and information system designers improve their misinformation detection systems. It will also help students in information science and computer science to study the latest models and algorithms. Information professionals may work with computer scientists to improve datasets used for misinformation detection.
+Keywords: Misinformation detection; Datasets; Machine learning; Deep learning; Algorithm evaluation
+
+Amina Adadi, Mohammed Lahmer, Samia Nasiri,
+Artificial Intelligence and COVID-19: A Systematic umbrella review and roads ahead,
+Journal of King Saud University - Computer and Information Sciences,
+Volume 34, Issue 8, Part B,
+2022,
+Pages 5898-5920,
+ISSN 1319-1578,
+https://doi.org/10.1016/j.jksuci.2021.07.010.
+(https://www.sciencedirect.com/science/article/pii/S1319157821001774)
+Abstract: Artificial Intelligence (AI) has played a substantial role in the response to the challenges posed by the current pandemic. The growing interest in using AI to handle Covid-19 issues has accelerated the pace of AI research and resulted in an exponential increase in articles and review studies within a very short period of time. Hence, it is becoming challenging to explore the large corpus of academic publications dedicated to the global health crisis. Even with the presence of systematic review studies, given their number and diversity, identifying trends and research avenues beyond the pandemic should be an arduous task. We conclude therefore that after the one-year mark of the declaration of Covid-19 as a pandemic, the accumulated scientific contribution lacks two fundamental aspects: Knowledge synthesis and Future projections. In contribution to fill this void, this paper is a (i) synthesis study and (ii) foresight exercise. The synthesis study aims to provide the scholars a consolidation of findings and a knowledge synthesis through a systematic review of the reviews (umbrella review) studying AI applications against Covid-19. Following the PRISMA guidelines, we systematically searched PubMed, Scopus, and other preprint sources from 1st December 2019 to 1st June 2021 for eligible reviews. The literature search and screening process resulted in 45 included reviews. Our findings reveal patterns, relationships, and trends in the AI research community response to the pandemic. We found that in the space of few months, the research objectives of the literature have developed rapidly from identifying potential AI applications to evaluating current uses of intelligent systems. Only few reviews have adopted the meta-analysis as a study design. Moreover, a clear dominance of the medical theme and the DNN methods has been observed in the reported AI applications. Based on its constructive systematic umbrella review, this work conducts a foresight exercise that tries to envision the post-Covid-19 research landscape of the AI field. We see seven key themes of research that may be an outcome of the present crisis and which advocate a more sustainable and responsible form of intelligent systems. We set accordingly a post-pandemic research agenda articulated around these seven drivers. The results of this study can be useful for the AI research community to obtain a holistic view of the current literature and to help prioritize research needs as we are heading toward the new normal.
+Keywords: Artificial Intelligence; Covid-19; Machine learning; Deep learning; Robotic; Umbrella review; Foresight analysis
+
+Diya Garg, Rupali Gill,
+Unmasking Deepfakes: A Review of Current Datasets, Tools, and Detection Features,
+Procedia Computer Science,
+Volume 259,
+2025,
+Pages 1737-1748,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2025.04.129.
+(https://www.sciencedirect.com/science/article/pii/S1877050925012311)
+Abstract: Deepfake technology is a new way to alter digital content and create videos that look very real. The responsible use of deepfake technology is essential, as its inappropriate application can lead to significant consequences, from harming individual’s reputations to influencing public opinion. Nowadays, this technology is being misused for spreading false information or deceiving people as well, making it crucial to develop an effective method for the detection of synthetic media. The current research focuses on various aspects such as datasets, features, tools, and techniques used in field of deepfake detection. Further investigation of gaps like lack of multi-modal approach, less work on hybrid models, and unseen datasets associated with current research work has also been done. The existing deep learning models being used for deepfake detection faces several challenges. There is no such model that works well with the different types of datasets. Also, the methods used to create deepfakes are changing quickly, making it even more difficult for existing detection models to obtain better performance. In order to overcome the challenges, it is proposed to design a hybrid learning framework for deepfake detection using a multi-modal approach.
+Keywords: Deepfake; Detection; Deep learning; Fake; Video forgery; Image forgery
+
+Abdul Rehman Javed, Zunera Jalil, Wisha Zehra, Thippa Reddy Gadekallu, Doug Young Suh, Md. Jalil Piran,
+A comprehensive survey on digital video forensics: Taxonomy, challenges, and future directions,
+Engineering Applications of Artificial Intelligence,
+Volume 106,
+2021,
+104456,
+ISSN 0952-1976,
+https://doi.org/10.1016/j.engappai.2021.104456.
+(https://www.sciencedirect.com/science/article/pii/S0952197621003043)
+Abstract: With the explosive advancements in smartphone technology, video uploading/downloading has become a routine part of digital social networking. Video contents contain valuable information as more incidents are being recorded now than ever before. In this paper, we present a comprehensive survey on information extraction from video contents and forgery detection. In this context, we review various modern techniques such as computer vision and different machine learning (ML) algorithms including deep learning (DL) proposed for video forgery detection. Furthermore, we discuss the persistent general, resource, legal, and technical challenges, as well as challenges in using DL for the problem at hand, such as the theory behind DL, CV, limited datasets, real-time processing, and the challenges with the emergence of ML techniques used with the Internet of Things (IoT)-based heterogeneous devices. Moreover, this survey presents prominent video analysis products used for video forensics investigation and analysis. In summary, this survey provides a detailed and broader investigation about information extraction and forgery detection in video contents under one umbrella, which was not presented yet to the best of our knowledge.
+Keywords: Digital forensics; Anti-forensics; Machine learning (ML); Deep learning (DL); Computer vision (CV); Video forensics; Video forgery; Evidence extraction; Forgery detection; Legal aspects
+
+Sakib Shahriar, Rozita Dara, Rajen Akalu,
+A comprehensive review of current trends, challenges, and opportunities in text data privacy,
+Computers & Security,
+Volume 151,
+2025,
+104358,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2025.104358.
+(https://www.sciencedirect.com/science/article/pii/S0167404825000471)
+Abstract: The emergence of smartphones and internet accessibility around the globe have enabled billions of people to be connected to the digital world. Due to the popularity of instant messaging applications and social media, a large quantity of personal data is in text format, and processing text data in a privacy-preserving manner poses unique challenges. While existing reviews focus on privacy concerns from specific algorithmic perspectives or target only a particular domain, such as healthcare or smart metering, they fail to provide a comprehensive view that addresses the multi-layered privacy risks inherent to text data processing. Existing works often limit their scope to specialized solutions like differential privacy, anonymization, or federated learning, neglecting a broader spectrum of challenges. To fill this gap, we present a comprehensive review of privacy-enhancing solutions for text data processing in the present literature and classify the works into six categories of privacy risks: (i) unintentional memorability, (ii) membership inference, (iii) exposure and re-identification, (iv) language models and word embeddings, (v) authorship attribution, and (vi) collaborative processing. We then analyze existing privacy-enhancing solutions for text data by considering the aforementioned privacy risks. Finally, we identified several research gaps, including the need for comprehensive privacy metrics, explainable algorithms, and privacy in social media analytics.
+Keywords: Privacy enhancing solutions; Text data; Natural language processing; Artificial intelligence; Machine learning; Privacy risk
+
+Tanveer Khan, Antonis Michalas, Adnan Akhunzada,
+Fake news outbreak 2021: Can we stop the viral spread?,
+Journal of Network and Computer Applications,
+Volume 190,
+2021,
+103112,
+ISSN 1084-8045,
+https://doi.org/10.1016/j.jnca.2021.103112.
+(https://www.sciencedirect.com/science/article/pii/S1084804521001326)
+Abstract: Social Networks' omnipresence and ease of use has revolutionized the generation and distribution of information in today's world. However, easy access to information does not equal an increased level of public knowledge. Unlike traditional media channels, social networks also facilitate faster and wider spread of disinformation and misinformation. Viral spread of false information has serious implications on the behaviours, attitudes and beliefs of the public, and ultimately can seriously endanger the democratic processes. Limiting false information's negative impact through early detection and control of extensive spread presents the main challenge facing researchers today. In this survey paper, we extensively analyze a wide range of different solutions for the early detection of fake news in the existing literature. More precisely, we examine Machine Learning (ML) models for the identification and classification of fake news, online fake news detection competitions, statistical outputs as well as the advantages and disadvantages of some of the available data sets. Finally, we evaluate the online web browsing tools available for detecting and mitigating fake news and present some open research challenges.
+Keywords: Fake news; Fact checking; Machine learning; Tools; Datasets
+
+Pengpeng Yang, Chen Zhou, Dasara Shullani, Lanxi Liu, Daniele Baracchi,
+A Comprehensive Review on File Containers-Based Image and Video Forensics,
+Computers, Materials and Continua,
+Volume 85, Issue 2,
+2025,
+Pages 2487-2526,
+ISSN 1546-2218,
+https://doi.org/10.32604/cmc.2025.069129.
+(https://www.sciencedirect.com/science/article/pii/S1546221825009105)
+Abstract: Images and videos play an increasingly vital role in daily life and are widely utilized as key evidentiary sources in judicial investigations and forensic analysis. Simultaneously, advancements in image and video processing technologies have facilitated the widespread availability of powerful editing tools, such as Deepfakes, enabling anyone to easily create manipulated or fake visual content, which poses an enormous threat to social security and public trust. To verify the authenticity and integrity of images and videos, numerous approaches have been proposed, which are primarily based on content analysis and their effectiveness is susceptible to interference from various image or video post-processing operations. Recent research has highlighted the potential of file containers analysis as a promising forensic approach that offers efficient and interpretable results. However, there is still a lack of review articles on this kind of approach. In order to fill this gap, we present a comprehensive review of file containers-based image and video forensics in this paper. Specifically, we categorize the existing methods into two distinct stages, qualitative analysis and quantitative analysis. In addition, an overall framework is proposed to organize the exiting approaches. Then, the advantages and disadvantages of the schemes used across different forensic tasks are provided. Finally, we outline the trends in this research area, aiming to provide valuable insights and technical guidance for future research.
+Keywords: Image and video forensics; file containers analysis; content analysis; Deepfakes
+
+Sonam Singh, Amol Dhumane,
+Unmasking digital deceptions: An integrative review of deepfake detection, multimedia forensics, and cybersecurity challenges,
+MethodsX,
+Volume 15,
+2025,
+103632,
+ISSN 2215-0161,
+https://doi.org/10.1016/j.mex.2025.103632.
+(https://www.sciencedirect.com/science/article/pii/S2215016125004765)
+Abstract: Deepfakes, which are driven by developments in generative AI, seriously jeopardize public trust, cybersecurity, and the veracity of information. This study offers a comprehensive analysis of the most recent methods for creating and detecting deepfakes in image, video, and audio modalities. With a focus on their advantages and disadvantages in cross-dataset and real-world scenarios, we compile the latest developments in transformer-based detection models, multimodal biometric defenses, and Generative Adversarial Networks (GANs). We provide implementation-level information such as pseudocode workflows, hyperparameter settings, and preprocessing pipelines for popular detection frameworks to improve reproducibility. We also examine the implications of cybersecurity, including identity theft and biometric spoofing, as well as policy-oriented solutions that incorporate federated learning, explainable AI, and ethical protections. By enriching technical insights with interdisciplinary perspectives, this review charts a roadmap for building robust, scalable, and trustworthy deepfake detection systems.
+Keywords: Deepfake detection; Generative adversarial networks (GANs); Synthetic media, biometric spoofing; Cyber security threats; Multimedia forensics; AI policy frameworks; Explainable AI; Federated learning; Digital deception; Face synthesis; Speech cloning; Identity theft; Cross-dataset evaluation; Ethical AI
+
+Walter Matli,
+Extending the theory of information poverty to deepfake technology,
+International Journal of Information Management Data Insights,
+Volume 4, Issue 2,
+2024,
+100286,
+ISSN 2667-0968,
+https://doi.org/10.1016/j.jjimei.2024.100286.
+(https://www.sciencedirect.com/science/article/pii/S2667096824000752)
+Abstract: The advent of deepfake technology has introduced complex challenges to the information technology landscape, simultaneously presenting benefits and novel risks and ethical considerations. This paper delves into the evolution of deepfakes through the prism of information poverty theory, scrutinising how deepfakes may contribute to a growing information access/use inequality. The research focuses on the risks of misinformation and the ensuing expansion of digital divides, particularly when manipulative media could delude individuals lacking access to legitimate information sources. The study outlines the potential exacerbation of information asymmetries and examines the societal implications across various demographics. By integrating an analytical discussion on the risks associated with deepfakes, the study aligns the observed trends with the theoretical underpinnings of information poverty. As part of its contribution, the paper offers actionable policy-making recommendations and educational strategies to combat the proliferation of harmful deepfake content. The article aims to ensure a more equitable distribution of authentic information and foster media literacy. Through a multifaceted approach, this study endeavours to provide a foundational understanding for stakeholders to navigate the ethical minefield posed by deepfakes and to instil a framework for information equity in the digital era. The article provides critical insights into the discourse on deepfake technology and its relation to information poverty, underscoring the urgent need for equitable access to informed digital spaces. As deepfake technology evolves and more data emerges, a societal demand exists for comprehensive knowledge about deepfakes to promote discernment, decision-making and awareness. Policymakers are tasked with recognising the significance of widening access to sophisticated information technologies whilst addressing their negative repercussions. Their efforts will be particularly crucial for disseminating knowledge about deepfakes to those with limited or non-existent information and communication awareness and infrastructures. Learning from past successes and failures becomes pivotal in shaping effective strategies to address the challenges posed by deepfakes and fostering accessible, informed digital communities.
+Keywords: Deepfake technology; Information poverty theory; Artificial intelligence (AI); Synthetic media; Societal implications; Technological advancements
+
+Ahmad Alobaid, Talal Bonny, Maher Alrahhal,
+Disruptive attacks on artificial neural networks: A systematic review of attack techniques, detection methods, and protection strategies,
+Intelligent Systems with Applications,
+Volume 26,
+2025,
+200529,
+ISSN 2667-3053,
+https://doi.org/10.1016/j.iswa.2025.200529.
+(https://www.sciencedirect.com/science/article/pii/S2667305325000559)
+Abstract: This paper provides a systematic review of disruptive attacks on artificial neural networks (ANNs). As neural networks become increasingly integral to critical applications, their vulnerability to various forms of attack poses significant security challenges. This review categorizes and analyzes recent advancements in attack techniques, detection methods, and protection strategies for ANNs. It explores various attacks, including adversarial attacks, data poisoning, fault injections, membership inference, model inversion, timing, and watermarking attacks, examining their methodologies, limitations, impacts, and potential improvements. Key findings reveal that while detection and protection mechanisms such as adversarial training, noise injection, and hardware-based defenses have advanced significantly, many existing solutions remain vulnerable to adaptive attack strategies and scalability challenges. Additionally, fault injection attacks at the hardware level pose an emerging threat with limited countermeasures. The review identifies critical gaps in defense strategies, particularly in balancing robustness, computational efficiency, and real-world applicability. Future research should focus on scalable defense solutions to ensure effective deployment across diverse ANN architectures and critical applications, such as autonomous systems. Furthermore, integrating emerging technologies, including generative AI models and hybrid architectures, should be prioritized to better understand and mitigate their vulnerabilities.
+Keywords: Fault injection attacks; Adversarial attacks; Deep neural network; Machine learning; Security analysis
+
+Michał Choraś, Konstantinos Demestichas, Agata Giełczyk, Álvaro Herrero, Paweł Ksieniewicz, Konstantina Remoundou, Daniel Urda, Michał Woźniak,
+Advanced Machine Learning techniques for fake news (online disinformation) detection: A systematic mapping study,
+Applied Soft Computing,
+Volume 101,
+2021,
+107050,
+ISSN 1568-4946,
+https://doi.org/10.1016/j.asoc.2020.107050.
+(https://www.sciencedirect.com/science/article/pii/S1568494620309881)
+Abstract: Fake news has now grown into a big problem for societies and also a major challenge for people fighting disinformation. This phenomenon plagues democratic elections, reputations of individual persons or organizations, and has negatively impacted citizens, (e.g., during the COVID-19 pandemic in the US or Brazil). Hence, developing effective tools to fight this phenomenon by employing advanced Machine Learning (ML) methods poses a significant challenge. The following paper displays the present body of knowledge on the application of such intelligent tools in the fight against disinformation. It starts by showing the historical perspective and the current role of fake news in the information war. Proposed solutions based solely on the work of experts are analysed and the most important directions of the application of intelligent systems in the detection of misinformation sources are pointed out. Additionally, the paper presents some useful resources (mainly datasets useful when assessing ML solutions for fake news detection) and provides a short overview of the most important R&D projects related to this subject. The main purpose of this work is to analyse the current state of knowledge in detecting fake news; on the one hand to show possible solutions, and on the other hand to identify the main challenges and methodological gaps to motivate future research.
+Keywords: Fake news; Machine Learning; Social media; Media content manipulation; Disinformation detection
+
+Ramcharan Ramanaharan, Deepani B. Guruge, Johnson I. Agbinya,
+DeepFake video detection: Insights into model generalisation — A Systematic review,
+Data and Information Management,
+Volume 9, Issue 4,
+2025,
+100099,
+ISSN 2543-9251,
+https://doi.org/10.1016/j.dim.2025.100099.
+(https://www.sciencedirect.com/science/article/pii/S2543925125000075)
+Abstract: Deep learning generative models have progressed to a stage where distinguishing fake images and videos has become difficult, posing risks to personal integrity, potentially leading to social instability, and disrupting government functioning. Existing reviews have mainly focused on the approaches used to detect DeepFakes, and the data sets used for those approaches. However, challenges persist when attempting to generalise detection techniques to identify previously unseen datasets. The purpose of this systematic review is to explore state-of-the-art frameworks for DeepFake detection and provide readers with an understanding of the strengths and weaknesses of current approaches, as well as the generalisability of existing detection techniques. The study indicates that generalising DeepFake detection remains a challenge that requires further research. Moreover, 46.3% of the selected publications agreed that DeepFake detection techniques could be generalised to identify various types of DeepFakes. A key limitation in achieving generalisation is the tendency of models to overfit to available data datasets, reducing their effectiveness in adapting to new or unseen types of DeepFakes. This review emphasises the need for the development of extensive and diverse datasets that more accurately reflect the wide range of DeepFake manipulations encountered in real-world applications. Lastly, the paper explores potential advancements that could pave the way to the next generation of solutions against DeepFakes.
+Keywords: DeepFake; Detection; Generalisability; Systematic review; Machine learning
+
+Helena Liz-López, Mamadou Keita, Abdelmalik Taleb-Ahmed, Abdenour Hadid, Javier Huertas-Tato, David Camacho,
+Generation and detection of manipulated multimodal audiovisual content: Advances, trends and open challenges,
+Information Fusion,
+Volume 103,
+2024,
+102103,
+ISSN 1566-2535,
+https://doi.org/10.1016/j.inffus.2023.102103.
+(https://www.sciencedirect.com/science/article/pii/S1566253523004190)
+Abstract: Generative deep learning techniques have invaded the public discourse recently. Despite the advantages, the applications to disinformation are concerning as the counter-measures advance slowly. As the manipulation of multimedia content becomes easier, faster, and more credible, developing effective forensics becomes invaluable. Other works have identified this need but neglect that disinformation is inherently multimodal. Overall in this survey, we exhaustively describe modern manipulation and forensic techniques from the lens of video, audio and their multimodal fusion. For manipulation techniques, we give a classification of the most commonly applied manipulations. Generative techniques can be exploited to generate datasets; we provide a list of current datasets useful for forensics. We have reviewed forensic techniques from 2018 to 2023, examined the usage of datasets, and given a comparative analysis of each modality. Finally, we give another comparison of end-to-end forensics tools for end-users. From our analysis clear trends are found with diffusion models, dataset granularity, explainability techniques, synchronisation improvements, and learning task diversity. We find a roadmap of deep challenges ahead, including multilinguality, multimodality, improving data quality (and variety), all in an adversarial ever-changing environment.
+Keywords: Multimedia data manipulation generation; Multimedia data forensics; Deep Learning; Video; Audio; Multimodal
+
+Ankit Yadav, Dinesh Kumar Vishwakarma,
+Datasets, clues and state-of-the-arts for multimedia forensics: An extensive review,
+Expert Systems with Applications,
+Volume 249, Part C,
+2024,
+123756,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2024.123756.
+(https://www.sciencedirect.com/science/article/pii/S0957417424006225)
+Abstract: With the large chunks of social media data being created daily and the parallel rise of realistic multimedia tampering methods, detecting and localising tampering in images and videos has become essential. This survey focusses on approaches for tampering detection in multimedia data using deep learning models. Specifically, it presents a detailed analysis of publicly available benchmark datasets for malicious manipulation detection. It also offers a comprehensive list of tampering clues and commonly used deep learning architectures. Next, it discusses the current state-of-the-art tampering detection methods, categorizing them into meaningful types such as deepfake detection methods, splice tampering detection methods, copy-move tampering detection methods, etc. and discussing their strengths and weaknesses. Top results achieved on benchmark datasets, comparison of deep learning approaches against traditional methods and critical insights from the recent tampering detection methods are also discussed. Lastly, the research gaps, future direction and conclusion are discussed to provide an in-depth understanding of the tampering detection research arena.
+Keywords: Tampering detection; Localization; Forgery; Manipulation; Deep learning; Convolutional neural networks
+
+Sarina Aminizadeh, Arash Heidari, Shiva Toumaj, Mehdi Darbandi, Nima Jafari Navimipour, Mahsa Rezaei, Samira Talebi, Poupak Azad, Mehmet Unal,
+The applications of machine learning techniques in medical data processing based on distributed computing and the Internet of Things,
+Computer Methods and Programs in Biomedicine,
+Volume 241,
+2023,
+107745,
+ISSN 0169-2607,
+https://doi.org/10.1016/j.cmpb.2023.107745.
+(https://www.sciencedirect.com/science/article/pii/S016926072300411X)
+Abstract: Medical data processing has grown into a prominent topic in the latest decades with the primary goal of maintaining patient data via new information technologies, including the Internet of Things (IoT) and sensor technologies, which generate patient indexes in hospital data networks. Innovations like distributed computing, Machine Learning (ML), blockchain, chatbots, wearables, and pattern recognition can adequately enable the collection and processing of medical data for decision-making in the healthcare era. Particularly, to assist experts in the disease diagnostic process, distributed computing is beneficial by digesting huge volumes of data swiftly and producing personalized smart suggestions. On the other side, the current globe is confronting an outbreak of COVID-19, so an early diagnosis technique is crucial to lowering the fatality rate. ML systems are beneficial in aiding radiologists in examining the incredible amount of medical images. Nevertheless, they demand a huge quantity of training data that must be unified for processing. Hence, developing Deep Learning (DL) confronts multiple issues, such as conventional data collection, quality assurance, knowledge exchange, privacy preservation, administrative laws, and ethical considerations. In this research, we intend to convey an inclusive analysis of the most recent studies in distributed computing platform applications based on five categorized platforms, including cloud computing, edge, fog, IoT, and hybrid platforms. So, we evaluated 27 articles regarding the usage of the proposed framework, deployed methods, and applications, noting the advantages, drawbacks, and the applied dataset and screening the security mechanism and the presence of the Transfer Learning (TL) method. As a result, it was proved that most recent research (about 43%) used the IoT platform as the environment for the proposed architecture, and most of the studies (about 46%) were done in 2021. In addition, the most popular utilized DL algorithm was the Convolutional Neural Network (CNN), with a percentage of 19.4%. Hence, despite how technology changes, delivering appropriate therapy for patients is the primary aim of healthcare-associated departments. Therefore, further studies are recommended to develop more functional architectures based on DL and distributed environments and better evaluate the present healthcare data analysis models.
+Keywords: Medical data processing; Healthcare data analysis; Deep learning; Distributed computing
+
+Krishnashree Achuthan, Sasangan Ramanathan, Raghu Raman,
+Securing the metaverse: Machine learning–based perspectives on risk, trust, and governance,
+International Journal of Information Management Data Insights,
+Volume 5, Issue 2,
+2025,
+100356,
+ISSN 2667-0968,
+https://doi.org/10.1016/j.jjimei.2025.100356.
+(https://www.sciencedirect.com/science/article/pii/S2667096825000382)
+Abstract: The rapid expansion of the metaverse presents significant cybersecurity and privacy challenges, requiring structured, data-driven analysis. This study applies the ADO-TCM framework and BERTopic modeling to examine drivers of cybersecurity risk, theoretical responses, and interdisciplinary research gaps. Using PRISMA guidelines, 86 peer-reviewed studies were analyzed to identify key antecedents—technological vulnerabilities, user behavior, regulatory fragmentation, economic incentives, and cultural factors—shaping decisions in compliance, deployment, and education. These, in turn, influence outcomes like trust, threat mitigation, and scalability. The review identifies five latent themes: secure identity, privacy, trust, governance, and AI’s role in shaping risk. The study maps diverse theoretical lenses—cognitive, behavioral, strategic, and technological—used to interpret immersive threats and decision-making in metaverse contexts. Contributing a novel, empirically grounded synthesis, this research advances the information management literature and proposes a forward-looking agenda focused on adaptive security, ethical AI, interoperability, regulatory convergence, and intelligent, user-centric architecture for immersive ecosystems.
+Keywords: Metaverse security; Cybersecurity governance; Decentralized identity; Privacy protection; User behavior; ADO-TCM framework; Threat detection; Regulatory compliance; BERTopic modeling
+
+Vidya K, Praveen Ramesh, Hrithik Viknesh, Sanjay Devanand,
+Compressed Deepfake Detection using Spatio-Temporal Approach with Model Pruning,
+Procedia Computer Science,
+Volume 230,
+2023,
+Pages 436-444,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2023.12.099.
+(https://www.sciencedirect.com/science/article/pii/S187705092302104X)
+Abstract: Deepfake is a deep learning technology that replaces source person face photos with the target person face photos in a movie to create a video of the target by executing the actions performed by source person. Due to the limited storage capacity and network bandwidth constraints, compressed media is now commonly employed in social networks. The goal of this research study is to determine whether or not a given compressed video is a deepfake. To do this, both the spatial and temporal components of the video should be considered, and the findings will be integrated by using an appropriate fusion approach. Hence, the deep learning model used in the spatial approach is pruned using the Network Pruning technique to achieve a better performance. The combined prediction of the spatial and temporal approaches indicates whether the given video is deepfake or not.
+Keywords: Compressed; Fusion; Pruning; Spatio-Temporal features
+
+Battula Thirumaleshwari Devi, Rajkumar Rajasekaran,
+Deepfake Video Detection Using Ada-Boosting on the DFDC Dataset,
+Procedia Computer Science,
+Volume 258,
+2025,
+Pages 1091-1101,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2025.04.344.
+(https://www.sciencedirect.com/science/article/pii/S1877050925014462)
+Abstract: The rapid proliferation of deepfake videos, generated using advanced machine learning techniques to create highly realistic but misleading content, poses significant challenges across various sectors, including cybersecurity, media integrity, and personal privacy. Detecting these deepfakes has become essential for maintaining trust in digital media and preventing malicious exploitation. This paper presents a novel approach to deepfake video detection by employing the AdaBoost algorithm, a powerful ensemble learning method recognized for its ability to improve classification performance by focusing on difficult-to-classify instances. Using the Deepfake Detection Challenge (DFDC) dataset, our study demonstrates that the AdaBoost classifier, when coupled with a carefully designed feature set, achieves competitive accuracy in detecting deepfake videos. Our results show that this approach provides an effective solution for deepfake detection, with strong recall performance, making it a viable method for real-world applications.
+Keywords: Deepfake detection; AdaBoost; DFDC dataset; ensemble learning; machine learning; video forensics
+
+He Huang, Nan Sun, Massimiliano Tani, Yu Zhang, Jiaojiao Jiang, Sanjay Jha,
+Can LLM-generated misinformation be detected: A study on Cyber Threat Intelligence,
+Future Generation Computer Systems,
+Volume 173,
+2025,
+107877,
+ISSN 0167-739X,
+https://doi.org/10.1016/j.future.2025.107877.
+(https://www.sciencedirect.com/science/article/pii/S0167739X25001724)
+Abstract: Given the increasing number and severity of cyber attacks, there has been a surge in cybersecurity information across various mediums such as posts, news articles, reports, and other resources. Cyber Threat Intelligence (CTI) involves processing data from these cybersecurity sources, enabling professionals and organizations to gain valuable insights. However, with the rapid dissemination of cybersecurity information, the inclusion of fake CTI can lead to severe consequences, including data poisoning attacks. To address this challenge, we have implemented a three-step strategy: generating synthetic CTI, evaluating the quality of the generated CTI, and detecting fake CTI. Unlike other subdomains, such as fake COVID news detection, there is currently no publicly available dataset specifically tailored for fake CTI detection research. To address this gap, we first establish a reliable groundtruth dataset by utilizing domain-specific cybersecurity data to fine-tune a Large Language Model (LLM) for synthetic CTI generation. We then employ crowdsourcing techniques and advanced synthetic data verification methods to evaluate the quality of the generated dataset, introducing a novel evaluation methodology that combines quantitative and qualitative approaches. Our comprehensive evaluation reveals that the generated CTI cannot be distinguished from genuine CTI by human annotators, regardless of their computer science background, demonstrating the effectiveness of our generation approach. We benchmark various misinformation detection techniques against our groundtruth dataset to establish baseline performance metrics for identifying fake CTI. By leveraging existing techniques and adapting them to the context of fake CTI detection, we provide a foundation for future research in this critical field. To facilitate further research, we make our code, dataset, and experimental results publicly available on GitHub.
+Keywords: Cyber security; Artificial intelligence; Human-centric
+
+Dmitry Gura, Bo Dong, Duaa Mehiar, Nidal Al Said,
+Customized Convolutional Neural Network for Accurate Detection of Deep Fake Images in Video Collections,
+Computers, Materials and Continua,
+Volume 79, Issue 2,
+2024,
+Pages 1995-2014,
+ISSN 1546-2218,
+https://doi.org/10.32604/cmc.2024.048238.
+(https://www.sciencedirect.com/science/article/pii/S1546221824002698)
+Abstract: The motivation for this study is that the quality of deep fakes is constantly improving, which leads to the need to develop new methods for their detection. The proposed Customized Convolutional Neural Network method involves extracting structured data from video frames using facial landmark detection, which is then used as input to the CNN. The customized Convolutional Neural Network method is the date augmented-based CNN model to generate ‘fake data’ or ‘fake images’. This study was carried out using Python and its libraries. We used 242 films from the dataset gathered by the Deep Fake Detection Challenge, of which 199 were made up and the remaining 53 were real. Ten seconds were allotted for each video. There were 318 videos used in all, 199 of which were fake and 119 of which were real. Our proposed method achieved a testing accuracy of 91.47%, loss of 0.342, and AUC score of 0.92, outperforming two alternative approaches, CNN and MLP-CNN. Furthermore, our method succeeded in greater accuracy than contemporary models such as XceptionNet, Meso-4, EfficientNet-BO, MesoInception-4, VGG-16, and DST-Net. The novelty of this investigation is the development of a new Convolutional Neural Network (CNN) learning model that can accurately detect deep fake face photos.
+Keywords: Deep fake detection video analysis; convolutional neural network; machine learning; video dataset collection; facial landmark prediction; accuracy; models
+
+Mahmoud Ragab, Bandar M. Alghamdi, Rayed Alakhtar, Huda Alsobhi, Louai A. Maghrabi, Ghadah Alghamdi, Sameer Nooh, Abdullah AL-Malaise AL-Ghamdi,
+Enhancing cybersecurity in higher education institutions using optimal deep learning-based biometric verification,
+Alexandria Engineering Journal,
+Volume 117,
+2025,
+Pages 340-351,
+ISSN 1110-0168,
+https://doi.org/10.1016/j.aej.2025.01.012.
+(https://www.sciencedirect.com/science/article/pii/S1110016825000213)
+Abstract: Cybersecurity is an increasingly significant issue in higher education institutions, and biometric technology offers an effective solution to enhance security measures. Biometrics mentions utilizing biological features, like facial detection or fingerprint, to prove the identity of individuals. In higher education institutions, biometrics are used to improve access control and authentication models. For instance, biometric verification was utilized for secure access to computer labs, buildings, and other sensitive areas on campus. It supports preventing unauthorized access and decreasing the risk of being or other security breaches. It could be an effective tool to improve cybersecurity in higher education institutions. However, it can be vital to implement robust security protocols and privacy protection to ensure that biometric data can be utilized securely and responsibly. So, this research paper proposes the hunter-prey optimizer with deep learning-enabled biometric verification for cybersecurity (HPODL-BVCS) techniques in higher education institutions. The HPODL-BVCS technique utilizes the DL model to accomplish biometric verification in higher education institutions. To complete this, the HPODL-BVCS technique employs bilateral filtering (BF) based noise elimination to preprocess the biometric imageries. Besides, the HPODL-BVCS technique employs the ShuffleNetv2.3 model for feature extraction purposes. Additionally, the HPO model is used for the hyperparameter tuning process. The HPODL-BVCS technique utilizes a convolutional autoencoder (CAE) model with root mean square propagation optimizer (RMSProp) for classification. The simulation result of the HPODL-BVCS approach is performed on the biometric dataset. The experimental validation of the HPODL-BVCS approach portrayed a superior accuracy value of 99.81 % over existing techniques in terms of diverse performance metrics.
+Keywords: Higher education institutions; Deep learning; Cybersecurity; Hunter prey optimizer; Biometrics
+
+Simon Fahle, Christopher Prinz, Bernd Kuhlenkötter,
+Systematic review on machine learning (ML) methods for manufacturing processes – Identifying artificial intelligence (AI) methods for field application,
+Procedia CIRP,
+Volume 93,
+2020,
+Pages 413-418,
+ISSN 2212-8271,
+https://doi.org/10.1016/j.procir.2020.04.109.
+(https://www.sciencedirect.com/science/article/pii/S2212827120307435)
+Abstract: Artificial Intelligence (AI) and especially machine learning (ML) become increasingly more frequently applicable in factory operations. This paper presents a systematic review of today’s applications of ML techniques in the factory environment. The utilization of ML methods related to manufacturing process planning and control, predictive maintenance, quality control, in situ process control and optimization, logistics, robotics, assistance and learning systems for shopfloor employees are being analyzed. Moreover, an overview of ML training concepts in learning factories is given. Furthermore, these concepts will be analyzed regarding the implemented ML method. Finally, research gaps are identified.
+Keywords: Artificial Intelligence; machine learning; production systems; factory operation
+
+Fakhar Abbas, Araz Taeihagh,
+Unmasking deepfakes: A systematic review of deepfake detection and generation techniques using artificial intelligence,
+Expert Systems with Applications,
+Volume 252, Part B,
+2024,
+124260,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2024.124260.
+(https://www.sciencedirect.com/science/article/pii/S0957417424011266)
+Abstract: Due to the fast spread of data through digital media, individuals and societies must assess the reliability of information. Deepfakes are not a novel idea but they are now a widespread phenomenon. The impact of deepfakes and disinformation can range from infuriating individuals to affecting and misleading entire societies and even nations. There are several ways to detect and generate deepfakes online. By conducting a systematic literature analysis, in this study we explore automatic key detection and generation methods, frameworks, algorithms, and tools for identifying deepfakes (audio, images, and videos), and how these approaches can be employed within different situations to counter the spread of deepfakes and the generation of disinformation. Moreover, we explore state-of-the-art frameworks related to deepfakes to understand how emerging machine learning and deep learning approaches affect online disinformation. We also highlight practical challenges and trends in implementing policies to counter deepfakes. Finally, we provide policy recommendations based on analyzing how emerging artificial intelligence (AI) techniques can be employed to detect and generate deepfakes online. This study benefits the community and readers by providing a better understanding of recent developments in deepfake detection and generation frameworks. The study also sheds a light on the potential of AI in relation to deepfakes.
+Keywords: Deep learning; Deepfakes; Detection and generation; Artificial Intelligence (AI); Policy recommendations; Literature review
+
+MD Sarfaraz Momin, Abu Sufian, Debaditya Barman, Marco Leo, Cosimo Distante, Naser Damer,
+Explainable deepfake detection across different modalities: An overview of methods and challenges,
+Image and Vision Computing,
+Volume 163,
+2025,
+105738,
+ISSN 0262-8856,
+https://doi.org/10.1016/j.imavis.2025.105738.
+(https://www.sciencedirect.com/science/article/pii/S0262885625003269)
+Abstract: The increasing use of deepfake technology enables the creation of realistic and deceptive content, raising concerns about several serious issues, including biometric authentication, misinformation, politics, privacy, and trust. Many Deepfake Detection (DD) models are entering the market to combat the misuse of deepfakes. With these developments, one primary issue occurs in ensuring the explainability of the proposed detection models to understand the rationale of the decision. This paper aims to investigate the state-of-the-art explainable DD models across multiple modalities, including image, video, audio, and text. Unlike existing surveys that focus on detection methodologies with minimal attention to explainability and limited modality coverage, this paper directly focuses on these gaps. It offers a comprehensive analysis of advanced explainability techniques, including Grad-CAM, LIME, SHAP, LRP, Saliency Maps, and Anchors, for detecting deceptive content across the modalities. It identifies the strengths and limitations of existing models and outlines research directions to enhance explainability and interpretability in future works. By exploring these models, we aim to enhance transparency, provide deeper insights into model decisions, and bridge the gap between detection accuracy with explainability in DD models.
+Keywords: Machine learning; Deep learning; Generative AI; Deepfake; Explainable AI
+
+Jenifer Loovens, Hasan Tinmaz,
+A systematic literature review of deepfakes in forensic science,
+Forensic Imaging,
+Volume 43,
+2025,
+200647,
+ISSN 2666-2256,
+https://doi.org/10.1016/j.fri.2025.200647.
+(https://www.sciencedirect.com/science/article/pii/S2666225625000259)
+Abstract: This research explores the complex implications of deepfakes, a controversial application of Artificial Intelligence (AI) and deep learning in forensic science. It highlights the ethical dilemmas and technological challenges associated with their use, emphasizing the growing risk deepfakes pose to the integrity of digital evidence. The study also addresses the ongoing ‘arms race’ between the development of increasingly sophisticated deepfakes content and the progress in detection tools. Additionally, it investigates the psychological and legal aspects of deepfakes, advocating for critical technological advancements and ethical frameworks to mitigate the associated risks. A systematic literature review of 36 selected research articles published between 2021 and 2024 across seven academic databases was conducted. The analysis identifies key research trends, categorizes essential keywords, and examines the various forensic approaches employed in deepfakes research. The findings reveal that, while progress has been made in deepfakes detection and forensic analysis, interdisciplinary collaboration is urgently needed to establish standardized methods and frameworks to combat digital manipulation. Continuous advancements in detection techniques, alongside the integration of ethical considerations into forensic practices, will be crucial to preserving the integrity of digital evidence amidst the rapid evolution of deepfakes technology.
+Keywords: Deepfakes; Forensic science; Misinformation; Media manipulation; Digital evidence; Systematic review
+
+Fransiskus Triyanto Winata, Nicholas Justin Tanuwijaya, Reina Setiawan, Reinert Yosua Rumagit,
+Comparison of deepfake detection using CNN and hybrid models,
+Procedia Computer Science,
+Volume 269,
+2025,
+Pages 1556-1564,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2025.09.097.
+(https://www.sciencedirect.com/science/article/pii/S1877050925027656)
+Abstract: In today’s digital era, manipulated videos known as deepfakes are becoming more common and harder to detect. These deepfake contents can be misused by people to spread false information, damage someone’s reputation, or even harm many people. To address this issue, we conducted a study to compare the performance of three deep learning models Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), and a hybrid CNN-LSTM model to detect deepfake content. In this study, we used the DeepFake Detection Challenge (DFDC) dataset, which includes a variety of real and fake videos, then we will evaluate each model using accuracy, precision, recall, F1-score, AUC, and loss values. The results of our research show that the RNN model provides the best overall performance with an accuracy of 77.5%, F1-score of 77.5%, and AUC of 0.928, while CNN followed closely with 75.5% accuracy and AUC of 0.930. The CNN-LSTM model showed lower performance with 67.5% accuracy and AUC of 0.886. The findings demonstrate the strength of RNNs in modeling temporal patterns in video data, which is crucial for effective deepfake detection. Then CNN model also have good performance and shows strong results in detecting spatial features in individual frames. Meanwhile, CNN-LSTM model does not perform as well as the other models. This can be happen due to hybrid model having more complex structure, which makes it more difficult to train effectively. We hope this research helps in building better tools to detect deepfakes in real-world situations.
+Keywords: Deepfake; DFDC; CNN; LSTM; CNN-LSTM
+
+Preeti Sharma, Manoj Kumar, Hitesh Kumar Sharma,
+GAN-CNN Ensemble: A Robust Deepfake Detection Model of Social Media Images Using Minimized Catastrophic Forgetting and Generative Replay Technique,
+Procedia Computer Science,
+Volume 235,
+2024,
+Pages 948-960,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2024.04.090.
+(https://www.sciencedirect.com/science/article/pii/S187705092400766X)
+Abstract: Deep-fake photographs are difficult to discern from real ones, especially when utilized in social media platforms. Anyone can willfully create disinformation about public personalities, politicians, and celebrities using these deep fake photographs. So, it is an important need of society to work for an effective model for its detection. The models for deep fake detection commonly use CNN-based detectors. These detectors experience a drop in performance when used for transfer learning or continual learning techniques. A significant limitation in this process is CNN's catastrophe forgetting defect. For the solution of this problem, a Generative replay technique in the form of a GAN-CNN model is implemented that works to minimize this catastrophe forgetting issue that further helps for better detection. It involves generating and storing samples from previous tasks and then replaying them during the training of new tasks which makes CNN more robust to identify deep fakes. The GAN model used in this work is traditional DCGAN improved with necessary adjustments to achieve training stability. It is observed that the model attained a good accuracy of 98.67%(training),70.08% (testing) and minimum loss with a value of 0. 0337 for 100 epochs. Also, it acquired good precision values of 68% and 72%, Recall values are 74% and 66%, and F1 scores of 71% and 69% for classes 0 and 1 respectively. The model outcome is found stable and reliable in deep fake detection under dynamic training conditions. Optimum values of evaluation parameters ensure the model's capacity to learn new tasks preserving the existing task-learning knowledge.
+Keywords: Deep Learning; CNN;GAN;Catastrophe forgetting;CNN continual learning;Lifelong learning; GAN-CNN deep fake detector
+
+Andry Chowanda, Mohamed Imran Bin Mohamed Ariff,
+CNN-swarm intelligence hybrid model for facial expression recognition,
+Procedia Computer Science,
+Volume 269,
+2025,
+Pages 844-852,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2025.09.027.
+(https://www.sciencedirect.com/science/article/pii/S1877050925026882)
+Abstract: Emotion is essential to our social interactions, as it allows us to communicate with others effectively. Emotion is expressed through facial expressions, voice prosody, and body language. As technology advances rapidly to facilitate human connection, the capac- ity to discern emotions through facial expressions, voice prosody, and body language has markedly improved. Facial expressions serve as non-verbal indicators for interpreting emotions. Recent research indicates that models utilising extensive datasets and deep learning architectures, such as Convolutional Neural Networks (CNN) and Vision Transformers, have strong performance on benchmarks for face expression datasets. Nevertheless, significant constraints exist when representing emotions through facial expressions (i.e., image or video-based). The variance and illumination significantly impact the model’s performance. This study seeks to examine the effectiveness of combining a conventional optimisation technique (i.e., gradient-based optimisation) with a metaheuristic search approach (i.e., swarm intelligence) to improve model performance. An inception-based architecture is utilised to model emotion recognition from facial cues. A hybrid optimisation approach that integrates gradient-based and swarm intelli- gence techniques is employed to improve the architectures. All the offered models demonstrate significantly enhanced performance relative to the baseline. Model B (20-5) attained a training accuracy of 99.15%, a validation accuracy of 100%, a training loss of 0.0934, and a validation loss of 0.0402.
+Keywords: Facial Expression Recognition; Particle Swarm Optimisation; Convolutional Neural Networks; Swarm Intelligence; Emotions Recognition
+
+Muhammad Zubair, Saqib Hakak,
+Exploring the Landscape of Compressed DeepFakes: Generation, Dataset and Detection,
+Neurocomputing,
+Volume 619,
+2025,
+129116,
+ISSN 0925-2312,
+https://doi.org/10.1016/j.neucom.2024.129116.
+(https://www.sciencedirect.com/science/article/pii/S0925231224018873)
+Abstract: In today’s era of social media, where information spreads rapidly through platforms like YouTube, Facebook, and Twitter, the development of generative models have given rise to a phenomenon called DeepFakes. This survey aims to provide a comprehensive overview of compressed DeepFakes research, covering various detection and generation techniques and datasets. It presents the details of detection methods, including experimental settings such as datasets, algorithms, feature selection, and results. The survey also highlights the existing challenges and future directions.
+Keywords: Fake news; DeepFakes; Social Engineering; MultiMedia Forensics; Forgery detection; GenerativeAI; Compression
+
+Krity Duhan, Abhishek Kajal,
+A Comparative Analysis of Deep Learning Based Approaches for DeepFake Identification,
+Procedia Computer Science,
+Volume 259,
+2025,
+Pages 482-493,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2025.03.350.
+(https://www.sciencedirect.com/science/article/pii/S1877050925010944)
+Abstract: One of the major concerns in the present global environment is the creation and utilization of deepfakes. In this work, we have examined the issues and challenges that are created by the deepfake in the security and surveillance mechanisms. Deepfakes are used for by passing the facial identification or biometrics system that are normally used as surveillance mechanisms. Previously the only issue was to find the authentic person through the photographs that they have put on their identity proofs but nowadays it is extended to find the forged pics that are manipulated with the usage of AI based methods like deepfakes. Deepfakes are used in the current environments for bypassing the security by impersonation and providing false information and thus become a source of danger especially in the politics arena and entertainment landscape. Deep learning has the tendency to mitigate the impact of deepfakes to considerable extent by incorporating the same in the techniques develop for the identification of deepfakes. This paper provides the comprehensive review of the deepfake related work that has been done by researchers with the usage of deep learning approaches which could identify the fake images, videos to significant extent in various contexts along with the mechanism used for deepfake creation and identification in general. Moreover, the comparative analysis of the existing techniques has been done considering a range of factors like dataset used, technique used, accuracy, AUC, data type used for deepfake identification etc. It has been inferred that majority of the researchers have used the FaceForensics++, Celeb-DF, DFDC dataset and have utilized CNN technique for the deepfake identification primarily on images.
+Keywords: Deepfake; CNN; GAN; Accuracy; Deep learning; Dataset; AUC
+
+Mvelo Mcuba, Avinash Singh, Richard Adeyemi Ikuesan, Hein Venter,
+The Effect of Deep Learning Methods on Deepfake Audio Detection for Digital Investigation,
+Procedia Computer Science,
+Volume 219,
+2023,
+Pages 211-219,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2023.01.283.
+(https://www.sciencedirect.com/science/article/pii/S1877050923002910)
+Abstract: Voice cloning methods have been used in a range of ways, from customized speech interfaces for marketing to video games. Current voice cloning systems are smart enough to learn speech characteristics from a few samples and produce perceptually unrecognizable speech. These systems pose new protection and privacy risks to voice-driven interfaces. Fake audio has been used for malicious purposes and is difficult to classify what is real and fake during a digital forensic investigation. This paper reviews the issue of deep-fake audio classification and evaluates the current methods of deep-fake audio detection for forensic investigation. Audio file features were extracted and visually presented using MFCC, Mel-spectrum, Chromagram, and spectrogram representations to further study the differences. Harnessing the different deep learning techniques from existing literature were compared using five iterative tests to determine the mean accuracy and the effects thereof. The results showed a Custom Architecture gave better results for the Chromagram, Spectrogram, and Me-Spectrum images and the VGG-16 architecture gave the best results for the MFCC image feature. This paper contributes to further assisting forensic investigators in differentiating between synthetic and real voices.
+Keywords: Deepfake audio; digital investigation; CNN; voice cloning
