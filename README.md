@@ -123,6 +123,9 @@ A small number of items reached the author through professional activities and a
 Structure of this repo:
 
 ```
+README.md
+included-in-review_25.csv
+
 /raw/
   query-0_Scopus_379.csv
   query-0_ScienceDirect_75.txt
